@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Colossus of the Drylands",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "de_DE",
-    baseUrl: "https://bromtus.github.io/CotD/",
+    baseUrl: "bromtus.github.io/CotD",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
