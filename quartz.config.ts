@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "de_DE",
+    locale: "en-US",
     baseUrl: "bromtus.github.io/CotD",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
