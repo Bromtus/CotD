@@ -1,6 +1,13 @@
 ---
-{"publish":true,"created":"2025-08-14T00:13:13.249+02:00","modified":"2025-08-14T00:59:01.322+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-14T00:13:13.249+02:00","modified":"2025-08-23T16:09:04.826+02:00","cssclasses":""}
 ---
 
-
-Test
+## Vor dem Essentia Rausch
+Nur wenige Außenseiter\*innen haben je Zutritt zu Pryor bekommen, aber die Familie Magnolica hatte nach ihrem Exil in den Drylands stehts guten Kontakt zu der Stadt. Vor dem Überfall auf Haus Magnolica beschränkte sich dieser Kontakt hauptsächlich auf einfachen Handel, aber auch auf den Austausch von Wissen. Die Bewohner\*innen Pryors fanden einigen Nutzen in den Büchern und der ausgezeichneten Bildung der Magnolicas, sodass sie mithilfe von Essentia-Forschungsberichten, die bis dahin nur in noblen Kreisen umhergereicht wurden, die ersten Essentia betriebenen Apparaturen der Drylands herstellen konnten.
+## Flucht nach Pryor
+Nach dem Fall von Haus Magnolica zeigte sich Pryor mitfühlend und nahm Lady Gladiolos und die von ihr gerettete Magnolica-Erbin Camilla auf. Ohne den Schutz (und in den Augen manchen Pryors Verhätschelung) durch das Adelshaus brachten sie Camilla die Wege der Drylands bei. Reiten, Überleben in der Wüste, der Gebrauch von Schusswaffen und auch der Umgang mit Essentia; Viele der Bewohner\*innen von Pryor hatten den Fortschritt ihres Handwerks dem Umfangreichen Wissen von Haus Magnolica zu verdanken und sahen es als ihre Pflicht, der kleinen Camilla davon etwas zurück zu geben.
+## Wissen über Pryor
+Camilla wurde in einige Geheimnisse über Pryor eingeweiht, die vor vielen Anderen in den Drylands verborgen bleiben. 
+- Das Minensystem und Pryor erstreckt sich weit durch die Drylands. Um die gefährlichen Wüstenreisen zu umgehen wurden unterirdische Tunnel geschaffen, um beschattete Reisen, teils sogar in Loren, ermöglichen. Eine der best behütetsten Strecken führt direkt in die Minen des heutigen Eisenkessels
+- Pryor gibt sich nach außen als gut gerüstet und schwer einzunehmen, wodurch sie ihren abgeschotteten Status erhalten können. In Wahrheit ist jedoch ein großer Teil der Bevölkerung von Pryor durch das Leben unter Tage so sehr an die Dunkelheit angepasst, dass sie bei Tageslicht von Kopfschmerzen und Übelkeit geplagt werden. Verschiedene Ancestries sind unterschiedlich stark betroffen, jedoch leben daher viele Pryors ausschließlich in den Minen.
+- Am tiefsten Punkt der Mine, viel weiter als Camilla je durfte, wurde vor vielen Jahren vor dem Rausch eine gigantische Höhle freigelegt. In ihr wurden große Mengen des reinsten Essentias gefunden, was es auf dem Kontinent bis dahin gab. In der Mitte der Höhle wurde außerdem eine riesige Geode gefunden, in dessen Nähe das reine Essentia schwach zu leuchte begann. Bergleute haben lange erfolglos versucht, die Geode zu öffnen und aufgrund ihrer Größe ist es unmöglich sie aus dem Berg zu transportieren. Mit der Zeit geriet der genaue Weg zu Höhle immer mehr in Vergessenheit, bis nur noch die Legende übrig blieb.
