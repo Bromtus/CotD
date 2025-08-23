@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-13T20:49:21.430+02:00","modified":"2025-08-24T01:31:24.082+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T20:49:21.430+02:00","modified":"2025-08-24T01:37:44.261+02:00","cssclasses":""}
 ---
 
 
@@ -26,5 +26,5 @@ Die Dritte Hand ist der Name des alten Gottes des Unglücks. Ihm schreiben viele
 >Fünf Karten hat er in den Händen
 >Vier Ass sich darunter befänden
 >Drei zogn den Revolver
->Denn zwei Ass hattn sie selber
->So schnell kann das Glück sich doch wenden
+>Zwei Ass hattn se selber
+>Ein Glück kann so schnell sich noch wenden
