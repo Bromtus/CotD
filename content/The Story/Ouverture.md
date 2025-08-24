@@ -1,0 +1,7 @@
+---
+{"publish":true,"created":"2025-08-15T17:35:03.026+02:00","modified":"2025-08-24T10:25:50.536+02:00","cssclasses":""}
+---
+
+
+Zwei Tage sind nun vergangen seit dem Erdbeben östliche von [[The Drylands/Major Outposts/Wyllin's Gulch]] und noch immer weiß niemand, was genau passiert ist. Abgesehen von Bergrutschen und Minenunglücken gab es noch nie Erdbeben in den Drylands. Ein entsandter Trupp von vier Deputies ist nicht wiedergekehrt und wurden offiziell als vermisst gemeldet, dies spitzt die Situation weiter zu. Auch die Lage der Einwohner des kleinen Outposts nahe des Epizentrums ist noch ungewiss. Die vom Erdbeben aufgewirbelte Staubwolke ist selbst heute noch von den [[The Drylands/Landmarks/Twin Turtles]] aus zu sehen und scheint sich nicht zu verflüchtigen. Bürgermeisterin [[The Drylands/Personen/Logan Hartly]] hat veranlasst, dass mehrere Gruppen zur Erkundung und womöglich Rettung entsandt werden. Die Gruppen werden geleitet vom Sherif des vom Erdbeben getroffenen Outposts, der glücklicherweise zur Zeit des Erdbebens in Wyllin's Gulch war. 
+Die Bürgermeisterin ruft alle Freiwilligen auf, sich den Gruppen anzuschließen, als Belohnung winkt **ein Sack Gold** für alle, die Vermisste retten oder wertvolle Informationen über die Ursache des Erdbebens liefern. Ein paar Vagabunden aus dem Umland der Katastrophe haben sich bereits angeschlossen, ebenso wie einige Besucher\*innen und Einwohner\*innen von Wyllin's Gulch.
