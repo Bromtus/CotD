@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-13T20:49:21.736+02:00","modified":"2025-08-25T23:36:44.200+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T20:49:21.736+02:00","modified":"2025-08-25T23:51:15.857+02:00","cssclasses":""}
 ---
 
 
@@ -14,14 +14,14 @@ Eine Schusswaffe eignet sich überraschen gut als Nahkampfwaffe. Jede Waffe kann
 Schusswaffen haben das Feature **Reload (x)**, da sie im Kampf nachgeladen werden müssen. Platziere **x Munitionstoken** auf deinem Character Sheet. Jedes mal wenn du einen Angriff mit einer Waffe mit Reload macht, gib einen Munitionstoken aus. Wenn du den letzten Token ausgibst, mache einen Reaction Roll(12) mit dem Trait der Waffen. Markiere 1 Stress bei einem Failure, dann fülle wieder alle Munitionstoken der Waffe auf.
 ## Primärwaffen
 
-| Name           | Trait                | Range      | Damage                                                    | Burden     | Feature                                                                                                                                                                       |
-| -------------- | -------------------- | ---------- | --------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Revolver       | Finesse<br>Agility   | Far        | Tier1:d6+2<br>Tier2:d6+5<br>Tier3:d6+8<br>Tier4:d6+11     | One-Handed | **Reload (6)**                                                                                                                                                                |
-| Rifle<br>      | Finesse              | Very Far   | Tier1:d10+2<br>Tier2:d10+5<br>Tier3:d10+8<br>Tier4:d10+11 | Two-Handed | **Reload (4)**<br>**Sightline**: Gib 2 Hope aus, um Advantage auf dem nächsten Attack Roll zu haben                                                                           |
-| Shotgun        | Strength<br>Presence | Very Close | Tier1:d8+2<br>Tier2:d8+5<br>Tier3:d8+8<br>Tier4:d8+11     | Two-Handed | **Reload (2)**<br>**Scattershot**: Wenn du einen Angriff machst, ziele auf alle Kreaturen in Reichweite vor dir (180°)                                                        |
-| Slug-Gun       | Strength             | Close      | Tier1:d8+1<br>Tier2:d8+4<br>Tier3:d8+7<br>Tier4:d8+10     | Two-Handed | **Reload (1)**<br>**Powerfull**: Bei einem Treffer, wirf einen Schadenswürfel mehr und verwirf den niedrigsten                                                                |
-| Dual Revolvers | Agility              | Far        | Tier1:d6+1<br>Tier2:d6+4<br>Tier3:d6+7<br>Tier4:d6+10     | Two-handed | **Reload(6)**<br>**Quickshot**: Wenn du einen Angriff machst, gib 1 Stress und 1 Munitionstoken aus, um auf eine weitere Kreatur in Reichweite zu zielen (kann dieselbe sein) |
-| Axe-gun        | Strength             | Close      | Tier1:d8+1<br>Tier2:d8+4<br>Tier3:d8+7<br>Tier4:d8+10     | Two-Handed | **Reload(2)**<br>**Versatile**: Diese Waffe kann auch verwendet werden mit - Melee, d10+1/4/7/10                                                                              |
+| Name           | Trait                | Range      | Damage                                                    | Burden     | Feature                                                                                                                                                                        |
+| -------------- | -------------------- | ---------- | --------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Revolver       | Finesse<br>Agility   | Far        | Tier1:d6+2<br>Tier2:d6+5<br>Tier3:d6+8<br>Tier4:d6+11     | One-Handed | **Reload (6)**                                                                                                                                                                 |
+| Rifle<br>      | Finesse              | Very Far   | Tier1:d10+2<br>Tier2:d10+5<br>Tier3:d10+8<br>Tier4:d10+11 | Two-Handed | **Reload (4)**<br>**Sightline**: Gib 2 Hope aus, um Advantage auf dem nächsten Attack Roll zu haben                                                                            |
+| Shotgun        | Strength<br>Presence | Very Close | Tier1:d8+2<br>Tier2:d8+5<br>Tier3:d8+8<br>Tier4:d8+11     | Two-Handed | **Reload (2)**<br>**Scattershot**: Wenn du einen Angriff machst, ziele auf alle Kreaturen in Reichweite vor dir (180°)                                                         |
+| Slug-Gun       | Strength             | Close      | Tier1:d8+1<br>Tier2:d8+4<br>Tier3:d8+7<br>Tier4:d8+10     | Two-Handed | **Reload (1)**<br>**Powerfull**: Bei einem Treffer, wirf einen Schadenswürfel mehr und verwirf den niedrigsten                                                                 |
+| Dual Revolvers | Agility              | Far        | Tier1:d6+1<br>Tier2:d6+4<br>Tier3:d6+7<br>Tier4:d6+10     | Two-handed | **Reload (6)**<br>**Quickshot**: Wenn du einen Angriff machst, gib 1 Stress und 1 Munitionstoken aus, um auf eine weitere Kreatur in Reichweite zu zielen (kann dieselbe sein) |
+| Axe-gun        | Strength             | Close      | Tier1:d8+1<br>Tier2:d8+4<br>Tier3:d8+7<br>Tier4:d8+10     | Two-Handed | **Reload (2)**<br>**Versatile**: Diese Waffe kann auch verwendet werden mit - Melee, d10+1/4/7/10                                                                              |
 
 
 ## Sekundärwaffen
