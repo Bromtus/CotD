@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-13T20:49:21.543+02:00","modified":"2025-08-16T12:50:35.142+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T20:49:21.543+02:00","modified":"2025-08-27T15:53:57.215+02:00","cssclasses":""}
 ---
 
 
@@ -14,8 +14,8 @@ Ganz oben mit der besten Aussicht auf einer Ebene der Mesas sind die Sitze der R
 # Industrie
 Wyllin's Gulch ist der Standort vieler der ältesten Companies der Drylands, wodurch dichte Industriegebiete entlang der steilen Felswände der Twin Turtles erbaut wurden, wo Essentia raffiniert und weiterverarbeitet wird. Die prominentesten Companies die ihren Sitz hier haben sind die [[The Drylands/Corporation/Smudgehill Mining Group]], [[The Drylands/Corporation/Meurant & Strakos Inc.]] und [[The Drylands/Corporation/P.A.C Processing and Refinement]].
 # Handel
-Durch die Lage der Stadt an der [[The Drylands/Corporation/Trans-Western Railroad]] war die Stadt lange zeit der einzige Handelspunkt mit der Außenwelt, als ein Großteil des Essentias noch exportiert wurde. Heutzutage bringt sie überwiegend neue Glücksuchende in die Drylands, die sich am Essentia schürfen versuchen wollen.
-Das verarbeitet Essentia wird zu Teilen in direkt in der Stadt verkauft, der Rest mit der [[The Drylands/Corporation/Trans-Western Railroad\|TWR]] in den Rest der Welt exportiert, wobei viel Geld für die Companies und wenig für die Arbeiter\*innen übrig bleibt.
+Durch den Anschluss der Stadt an der [[The Drylands/Corporation/Trans-Western Railway Company]] war die Stadt lange zeit der einzige Handelspunkt mit der Außenwelt, als ein Großteil des Essentias noch exportiert wurde. Heutzutage bringt sie überwiegend neue Glücksuchende in die Drylands, die sich am Essentia schürfen versuchen wollen.
+Das verarbeitet Essentia wird zu Teilen in direkt in der Stadt verkauft, der Rest mit der [[The Drylands/Corporation/Trans-Western Railway Company]] in den Rest der Welt exportiert, wobei viel Geld für die Companies und wenig für die Arbeiter\*innen übrig bleibt.
 Durch den ständigen Strom an Leuten hat sich die Stadt jedoch als ein wichtiger Handelsposten gehalten, wobei viele Händler alles tun um Neuankömmlinge mit gebrauchtem Equipment und zwielichtigen Maschen ihr Geld aus den Taschen zu ziehen.
 # Gesetzteshüter
 Der Head-Sherif der Stadt, [[The Drylands/Personen/Reed Faulkner]] hat offiziell das sagen, doch steht er ebenfalls auf den Gehaltslisten der Konzerne, wodurch seine Prioritäten oft nicht beim Wohl der Bürger\*innen liegen. Die übrigen Sherifs und Deputies tun es ihm gleich und verbringen einen Großteil ihrer Zeit damit, beide Augen zu zu drücken wenn ein unzureichend gesicherter Schmelzofen von [[The Drylands/Corporation/Meurant & Strakos Inc.]] ein Dutzend Arbeiter\*innen die Klippen herunter reißt.
