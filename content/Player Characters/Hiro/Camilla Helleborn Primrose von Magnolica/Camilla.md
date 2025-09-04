@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-14T00:13:13.249+02:00","modified":"2025-08-23T16:09:04.826+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-23T16:09:04.057+02:00","modified":"2025-08-23T16:09:04.826+02:00","cssclasses":""}
 ---
 
 ## Vor dem Essentia Rausch

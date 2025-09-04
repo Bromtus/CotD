@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2025-08-27T16:19:05.849+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-27T16:19:05.612+02:00","modified":"2025-08-27T16:19:05.849+02:00","cssclasses":""}
 ---
 
 - 27.8.25 - Added: [[The Drylands/Corporation/Ludwig Pharmazeutika]]
