@@ -1,0 +1,7 @@
+---
+{"publish":true,"created":"2025-08-14T00:13:23.239+02:00","modified":"2025-09-09T15:37:42.515+02:00","cssclasses":""}
+---
+
+Die Redlaw Gang existiert quasi, seit dem es die Drylands gibt. Seitdem haben sich Ray und Butch einen Namen unter den Outlaws gemacht mit Überfällen und Missionen, die mit den größten Gangs mithalten können. Dabei sind die Redlaws nie dem Expansionismus verfallen, der so viele Gangs zerschlagen oder hinter Gitter gebracht hat. Alle der ~20 Mitglieder sind sorgfältig ausgewählt und erfüllen ihre Aufgabe in dem kleinen besetzten Outpost der Gang. Und bei Problemen mit den Gesetzeshütern oder anderen Gangs wissen sich Butch und Ray schnell zu helfen mit einem guten Wort im richtigen Ohr oder einer kalten Waffe an der richtigen Schläfe.
+Die neuen Gangs wissen oft gar nichts von den Redlaws oder halten sie für unbedeutend. Die alteingesessenen Gangs wissen aber, dass man bei Ray besser nicht auf die schlechte Seite kommt.
+Offiziell wird die Gang und ihre Mitglieder in allen Outposts gesucht, mit Kopfgeldern für die hohen Tiere im fünfstelligen Bereich. Viele Sherifs legen ihren Fokus jedoch lieber auf andere Ziele, einerseits da die Tage der großen Heists und Überfälle der Gang vorbei zu sein scheinen, andererseits zum Wohle ihrer Familien.

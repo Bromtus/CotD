@@ -1,7 +1,12 @@
 ---
-{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2025-08-27T16:19:05.849+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2025-09-09T16:28:00.512+02:00","cssclasses":""}
 ---
 
+- 9.9.25 - Added: [[The Drylands/Corporation/Smudgehill Mining Group]]
+- 9.9.25 - Added: [[The Drylands/Landmarks/Takraf Mine]]
+- 9.9.25 - Added: [[The Drylands/Outlaw Gangs/Harlan Family]]
+- 9.9.25 - Added:[[The Drylands/Personen/Trace Harlan]]
+***
 - 27.8.25 - Added: [[The Drylands/Corporation/Ludwig Pharmazeutika]]
 - 27.8.25 - Added: [[The Drylands/Landmarks/Godfall Mountain]]
 - 27.8.25 - Added: [[The Drylands/Major Outposts/The Cinderline]]

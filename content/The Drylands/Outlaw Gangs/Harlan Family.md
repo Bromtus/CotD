@@ -1,0 +1,5 @@
+---
+{"publish":true,"created":"2025-09-09T12:22:40.926+02:00","modified":"2025-09-09T16:10:02.176+02:00","cssclasses":""}
+---
+
+Die Harlan Family ist eine der ältesten [[Outlaw Gangs/]] der [[The Drylands/Wissenswertes/Drylands]]. Ansässig in [[The Drylands/Major Outposts/Wyllin's Gulch]] war das ursprüngliche Ziel der "Family" die [[The Drylands/Wissenswertes/Essentia\|Essentiaminen]] der Konzerne, in denen sie primär Sabotage verübten und Equipment stahlen. Besonders die [[The Drylands/Landmarks/Takraf Mine]] war als Jagdgebiet der Harlan Family bekannt. Mit der Bildung der [[The Drylands/Corporation/Smudgehill Mining Group]] wurden Überfälle auf die Mine jedoch risikoreicher, was den ersten von vielen Änderungen in der Family zur Folge hatte, so auch den ersten Wechsels des Don der Familie. Der Momentane Don ist  [[The Drylands/Personen/Trace Harlan]].
