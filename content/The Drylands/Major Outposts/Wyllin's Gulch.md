@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-27T15:53:57.215+02:00","modified":"2025-08-27T15:53:57.215+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T20:49:21.543+02:00","modified":"2025-09-08T22:55:35.984+02:00","cssclasses":""}
 ---
 
 
@@ -21,7 +21,7 @@ Durch den ständigen Strom an Leuten hat sich die Stadt jedoch als ein wichtiger
 Der Head-Sherif der Stadt, [[The Drylands/Personen/Reed Faulkner]] hat offiziell das sagen, doch steht er ebenfalls auf den Gehaltslisten der Konzerne, wodurch seine Prioritäten oft nicht beim Wohl der Bürger\*innen liegen. Die übrigen Sherifs und Deputies tun es ihm gleich und verbringen einen Großteil ihrer Zeit damit, beide Augen zu zu drücken wenn ein unzureichend gesicherter Schmelzofen von [[The Drylands/Corporation/Meurant & Strakos Inc.]] ein Dutzend Arbeiter\*innen die Klippen herunter reißt.
 Eine Emporkömmlingin bei den Deputies ist [[Jessie Lancaster]](sie\ihr), die der Herrschaft der Konzerne die Stirn bieten will.
 # Kriminalität
-Obwohl die Sherifs hier eher schlecht als recht für Ordnung sorgen, muss sich jede Outlaw gang zwei mal überlegen, ob sie sich mit dem Konzernen anlegen will. So gibt es außer Kleinkriminalität nur schwer etwas zu hohlen. Die prominenteste Gang ist [[The Drylands/Outlaw Gangs/Ivory White]], die einen Großteil der Touristenfallen und gefälschten Bergbauzertifikate kontrolliert.
+Obwohl die Sherifs hier eher schlecht als recht für Ordnung sorgen, muss sich jede Outlaw gang zwei mal überlegen, ob sie sich mit dem Konzernen anlegen will. So gibt es außer Kleinkriminalität nur schwer etwas zu hohlen. Die prominenteste Gang ist die [[The Drylands/Outlaw Gangs/Harlan Family]], die einen Großteil der Touristenfallen und gefälschten Bergbauzertifikate kontrolliert.
 Ab und zu überfallen Outlaw Gangs die [[Takraf Mine]] um Rohladungen Essentia zu stehlen.
 # Casino Goldener Zahn
 Nur eine Ebene über dem Güterbahnhof im Rauch der Raffinerien befindet sich eine auch unter Einwohner\*innen beliebte Touristenfalle, das Casino Goldener Zahn, oft einfach Zahn genannt. Die Dealer bieten hier jedes erdenkliche Spiel der Drylands an, versprechen fette Gewinne und kassieren noch höhere Renditen. Was unerfahrene Spieler\*innen oft täuscht sind die vom Casino angestellten professionellen Gambler\*innen, die sowohl demonstrativ bei Faro abräumen, als auch Neuankömmlinge bei Poker und Craps abzocken. Die Einwohner\*innen von Wyllin's Gulch ziehen es daher vor, unter sich zu spielen, wodurch das Casino ebenfalls ein beliebter Treffpunkt ist, vorausgesetzt man lässt etwas Gold am Tresen.

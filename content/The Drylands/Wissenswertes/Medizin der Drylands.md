@@ -1,15 +1,15 @@
 ---
-{"publish":true,"created":"2025-08-13T15:11:54.869+02:00","modified":"2025-08-13T20:59:40.048+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T20:49:21.810+02:00","modified":"2025-09-08T23:11:54.523+02:00","cssclasses":""}
 ---
 
 
-Medizin ist in den Dryland eine selten und teure Ware. Fast alles, was nicht von außerhalb importiert ist, wird von [[The Drylands/Coorperation/Ludwig Pharmazeutika]] hergestellt, wobei wohl mehr Fälschungen als Originale im Umlauf sind. Viele Bewohner suchen sich daher eigene Wege, die kleinen und großen Wehwehchen zu heilen, oder Dampf abzulassen.
+Medizin ist in den Dryland eine selten und teure Ware. Fast alles, was nicht von außerhalb importiert ist, wird von [[The Drylands/Corporation/Ludwig Pharmazeutika]] hergestellt, wobei wohl mehr Fälschungen als Originale im Umlauf sind. Viele Bewohner suchen sich daher eigene Wege, die kleinen und großen Wehwehchen zu heilen, oder Dampf abzulassen.
 # Tabak
 - Echter Tabak wächst nicht in den Drylands und muss von weit her importiert werden, trotzdem erfreut er sich größter Beliebtheit under Outlaws und Konzernchef\*innen zugleich.
 - Außerhalb der großen Outposts greifen viele auf lokale Alternativen zurück, wie das vor allem im Süden wachsende Kümmerkraut, welches aber deutlich schlechter schmeckt
-- **Clear 1d4 Stress**, macht jedoch mit der Zeit **süchtig**
+- **Clear 1d4 Stress**
 # Nichtopioides Antiphlogistisches Remidium Analgeticum (Nara)
-- Das Flagschiffprodukt von [[The Drylands/Coorperation/Ludwig Pharmazeutika]], ein allround Schmerzmittel und Wundheilungsbeschleuniger. 
+- Das Flagschiffprodukt von [[The Drylands/Corporation/Ludwig Pharmazeutika]], ein allround Schmerzmittel und Wundheilungsbeschleuniger. 
 - War nach seiner Einführung unglaublich beliebt, um die Schmerzen des Alltags zu vergessen, heute gibt es unzählige Kopien und fragwürdige Replikate
 - Die weiße Flüssigkeit hat einen angenehmen Kirschgeschmack, was definitiv zur Beliebtheit unter Kindern beigetragen hat
 - **Clear 1d4 Health**, aber je nach Verkäufer\*in besteht die Chance, eine billige Kopie erwischt zu haben
