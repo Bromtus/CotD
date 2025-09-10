@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-13T20:49:21.736+02:00","modified":"2025-09-08T22:22:00.392+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T20:49:21.736+02:00","modified":"2025-09-10T15:19:00.390+02:00","cssclasses":""}
 ---
 
 
@@ -16,7 +16,7 @@ Schusswaffen haben das Feature **Reload (x)**, da sie im Kampf nachgeladen werde
 
 | Name           | Trait                | Range      | Damage                                                    | Burden     | Feature                                                                                                                                                                        |
 | -------------- | -------------------- | ---------- | --------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Revolver       | Finesse<br>Agility   | Far        | Tier1:d6+2<br>Tier2:d6+5<br>Tier3:d6+8<br>Tier4:d6+11     | One-Handed | **Reload (6)**                                                                                                                                                                 |
+| Revolver       | Finesse<br>Agility   | Far        | Tier1:d8+1<br>Tier2:d8+4<br>Tier3:d8+7<br>Tier4:d8+10     | One-Handed | **Reload (6)**                                                                                                                                                                 |
 | Rifle<br>      | Finesse              | Very Far   | Tier1:d10+2<br>Tier2:d10+5<br>Tier3:d10+8<br>Tier4:d10+11 | Two-Handed | **Reload (4)**<br>**Sightline**: Gib 2 Hope aus, um Advantage auf dem nächsten Attack Roll zu haben                                                                            |
 | Shotgun        | Strength<br>Presence | Very Close | Tier1:d8+2<br>Tier2:d8+5<br>Tier3:d8+8<br>Tier4:d8+11     | Two-Handed | **Reload (4)**<br>**Scattershot**: Wenn du einen Angriff machst, ziele auf alle Kreaturen in Reichweite vor dir (180°)                                                         |
 | Slug-Gun       | Strength             | Close      | Tier1:d8+1<br>Tier2:d8+4<br>Tier3:d8+7<br>Tier4:d8+10     | Two-Handed | **Reload (1)**<br>**Powerfull**: Bei einem Treffer, wirf einen Schadenswürfel mehr und verwirf den niedrigsten                                                                 |
