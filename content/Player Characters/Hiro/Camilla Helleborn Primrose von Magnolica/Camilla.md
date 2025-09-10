@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-09T15:24:25.261+02:00","modified":"2025-09-09T15:24:25.261+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-09T23:38:23.634+02:00","modified":"2025-09-10T22:08:52.128+02:00","cssclasses":""}
 ---
 
 ## Vor dem Essentia Rausch
@@ -19,7 +19,7 @@ Theobald "Ironfist" D'Argemont, Zwerg, 83 Jahre
 - Keine Infos erhalten
 
 Isabella "Easy" Pete, Faun, 34 Jahre
-- Hohes Tier bei der [[The Drylands/Corporation/Smudgehill Mining Group]], die zwei Unschuldige erschossen hat.
+- Hohes Tier bei der [[The Drylands/Corporation/Smudgehill Mining Group]], die zwei Unschuldige auf dem Gewissen hat.
 - Erschossen zwischen [[The Drylands/Major Outposts/Der Eisenkessel\|Eisenkessel]]und [[The Drylands/Major Outposts/Wyllin's Gulch]] vor ~1,5 Jahren
 - Zusammenarbeit mit *Moraine Essinger*
 - Kannte den Überfall auf Haus Magnolica, wäre gerne dabei gewesen um sich am "perversen Reichtum" zu bereichern.
