@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2025-09-10T15:19:47.733+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2025-09-10T17:02:10.657+02:00","cssclasses":""}
 ---
 
-- 10.9.25 - Changed Revolver (Official Errata)
+- 10.9.25 - Adjusted Revolver Damage (Official Errata)
 ***
 - 9.9.25 - Added: [[The Drylands/Corporation/Smudgehill Mining Group]]
 - 9.9.25 - Added: [[The Drylands/Landmarks/Takraf Mine]]
