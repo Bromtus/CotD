@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-13T20:49:21.736+02:00","modified":"2025-09-10T15:19:00.390+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-10T21:35:42.190+02:00","modified":"2025-09-10T21:39:24.335+02:00","cssclasses":""}
 ---
 
 
@@ -11,7 +11,7 @@ Manche Orte bieten besondere Munition für Waffen an, wie etwa Signalgeschosse, 
 ## Pistol-Whipping und Butt-Stroking
 Eine Schusswaffe eignet sich überraschen gut als Nahkampfwaffe. Jede Waffe kann in Melee Range als Waffe mit Strength oder Finesse als Trait eingesetzt werden. Einhändige Waffen machen dabei d4, zweihändige d6 mit Proficiency physical Damage.
 ## Reloading
-Schusswaffen haben das Feature **Reload (x)**, da sie im Kampf nachgeladen werden müssen. Platziere **x Munitionstoken** auf deinem Character Sheet. Jedes mal wenn du einen Angriff mit einer Waffe mit Reload macht, gib einen Munitionstoken aus. Wenn du den letzten Token ausgibst, mache einen Reaction Roll(12) mit dem Trait der Waffen. Markiere 1 Stress bei einem Failure, dann fülle wieder alle Munitionstoken der Waffe auf.
+Schusswaffen haben das Feature **Reload (x)**, da sie im Kampf nachgeladen werden müssen. Platziere **x Munitionstoken** auf deinem Character Sheet. Jedes mal wenn du einen Angriff mit einer Waffe mit Reload macht, gib einen Munitionstoken aus. Wenn du den letzten Token ausgibst, mache einen Reaction Roll(14) mit dem Trait der Waffen. Markiere 1 Stress bei einem Failure, dann fülle wieder alle Munitionstoken der Waffe auf.
 ## Primärwaffen
 
 | Name           | Trait                | Range      | Damage                                                    | Burden     | Feature                                                                                                                                                                        |
