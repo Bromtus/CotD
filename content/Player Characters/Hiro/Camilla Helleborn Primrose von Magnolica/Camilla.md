@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-09T23:38:23.634+02:00","modified":"2025-09-10T22:08:52.128+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-14T00:13:13.249+02:00","modified":"2025-09-15T16:14:26.297+02:00","cssclasses":""}
 ---
 
 ## Vor dem Essentia Rausch
@@ -30,7 +30,7 @@ Isabella "Easy" Pete, Faun, 34 Jahre
 - Undercover Mission, im nachhinein konnten Sherifs 16 weitere Beteiligte festnehmen
 - Hat laut eigenen Aussagen Infos über den Überfall auf Haus Magnolica, weigert sich aber zu reden, da Mud "deren Kopf behalten möchte". 
 
-Killie "The Bid" McCarty, Mensch, 22 Jahre
+Arthur "The Bid" McCarty, Mensch, 22 Jahre
 - Gesucht für Glückspielbetrug, Auftragsmorde
 - Getötet in den Südlichen Ebenen vor ~5 Monaten, 1,5 Sack Gold Belohnung
 - Zusammenarbeit mit Sherif William Garett, im Gefecht mit McCarty verstorben

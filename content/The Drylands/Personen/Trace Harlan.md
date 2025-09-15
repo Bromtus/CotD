@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-09T16:35:17.160+02:00","modified":"2025-09-09T16:35:17.534+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-09T16:10:02.221+02:00","modified":"2025-09-09T16:35:17.534+02:00","cssclasses":""}
 ---
 
 dey/dem, Fungril, ähnelt Mycena interrupta (Pixie’s Parasol). Blaue schleimige Kappe, die das Gesicht in Schatten hüllt, fast durchsichtig scheinender dünner Körper.

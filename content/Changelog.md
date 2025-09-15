@@ -1,7 +1,9 @@
 ---
-{"publish":true,"created":"2025-09-10T17:02:10.147+02:00","modified":"2025-09-10T17:02:10.657+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2025-09-15T16:22:13.907+02:00","cssclasses":""}
 ---
 
+- 15.9.25 - Added: [[The Drylands/Minor Outposts/Merryway Outpost]]
+***
 - 10.9.25 - Adjusted Revolver Damage (Official Errata)
 ***
 - 9.9.25 - Added: [[The Drylands/Corporation/Smudgehill Mining Group]]
