@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-08-13T20:49:21.543+02:00","modified":"2025-09-08T22:55:35.984+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-08T22:03:44.972+02:00","modified":"2025-09-08T22:55:35.984+02:00","cssclasses":""}
 ---
 
 
 **Der alte Handelsposten**
 # Überblick
-Wyllin's Gulch ist eine große und reiche Stadt im Süd-Westen der [[The Drylands/Wissenswertes/Drylands\|Drylands]]. Es erstreckt sich zwischen den beiden Mesas [[The Drylands/Landmarks/Twin Turtles]] und wurde vor etwa 40 Jahren zu beginn des [[The Drylands/Wissenswertes/Essentia Rausch\|Essentie Rauschs]] in der nähe der ersten [[The Drylands/Wissenswertes/Essentia]] Minen gegründet, heute bekannt als die [[Takraf Mine]]. 
+Wyllin's Gulch ist eine große und reiche Stadt im Süd-Westen der [[The Drylands/Wissenswertes/Drylands\|Drylands]]. Es erstreckt sich zwischen den beiden Mesas [[The Drylands/Landmarks/Twin Turtles]] und wurde vor etwa 40 Jahren zu beginn des [[The Drylands/Wissenswertes/Essentia Rausch\|Essentie Rauschs]] in der nähe der ersten [[The Drylands/Wissenswertes/Essentia]] Minen gegründet, heute bekannt als die [[The Drylands/Landmarks/Takraf Mine]]. 
 # Aufbau
 Im untersten Bereich, wo sich die Steilwände der Mesas fast berühren, liegt der große Güter und Personenbahnhof der Stadt. Hier werden die Wagons direkt mit Rutschen und Förderbändern aus den Fabriken beladen. 
 Darüber ist der Marktschicht, voller gestapelter Stände, zwielichtiger Händler\*innen und Alltagsleben der Bewohner\*innen.
@@ -22,6 +22,6 @@ Der Head-Sherif der Stadt, [[The Drylands/Personen/Reed Faulkner]] hat offiziell
 Eine Emporkömmlingin bei den Deputies ist [[Jessie Lancaster]](sie\ihr), die der Herrschaft der Konzerne die Stirn bieten will.
 # Kriminalität
 Obwohl die Sherifs hier eher schlecht als recht für Ordnung sorgen, muss sich jede Outlaw gang zwei mal überlegen, ob sie sich mit dem Konzernen anlegen will. So gibt es außer Kleinkriminalität nur schwer etwas zu hohlen. Die prominenteste Gang ist die [[The Drylands/Outlaw Gangs/Harlan Family]], die einen Großteil der Touristenfallen und gefälschten Bergbauzertifikate kontrolliert.
-Ab und zu überfallen Outlaw Gangs die [[Takraf Mine]] um Rohladungen Essentia zu stehlen.
+Ab und zu überfallen Outlaw Gangs die [[The Drylands/Landmarks/Takraf Mine]] um Rohladungen Essentia zu stehlen.
 # Casino Goldener Zahn
 Nur eine Ebene über dem Güterbahnhof im Rauch der Raffinerien befindet sich eine auch unter Einwohner\*innen beliebte Touristenfalle, das Casino Goldener Zahn, oft einfach Zahn genannt. Die Dealer bieten hier jedes erdenkliche Spiel der Drylands an, versprechen fette Gewinne und kassieren noch höhere Renditen. Was unerfahrene Spieler\*innen oft täuscht sind die vom Casino angestellten professionellen Gambler\*innen, die sowohl demonstrativ bei Faro abräumen, als auch Neuankömmlinge bei Poker und Craps abzocken. Die Einwohner\*innen von Wyllin's Gulch ziehen es daher vor, unter sich zu spielen, wodurch das Casino ebenfalls ein beliebter Treffpunkt ist, vorausgesetzt man lässt etwas Gold am Tresen.
