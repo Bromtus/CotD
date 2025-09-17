@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Die Drylands die Drylands","description":"Die Drylands","created":"2025-08-13T20:49:21.305+02:00","modified":"2025-08-27T15:52:59.507+02:00","cssclasses":""}
+{"publish":true,"aliases":"Die Drylands die Drylands","description":"Die Drylands","created":"2025-09-16T21:04:35.255+02:00","modified":"2025-09-16T21:04:35.560+02:00","cssclasses":""}
 ---
 
 
@@ -16,6 +16,6 @@ Viele der großen Städte der Drylands entstanden als kleine Lager, wo glücklic
 - [[The Drylands/Major Outposts/Havalaugh]]
 - [[The Drylands/Major Outposts/Pryor]]
 - [[The Drylands/Major Outposts/Der Eisenkessel]]
-- [[The Drylands/Major Outposts/Defiance]]
+- [[The Drylands/Major Outposts/- Defiance]]
 Dazu kommen unzählige kleine Außenposten und Befestigungen sowohl in direkter Nähe der großen Städte, als auch über die gesamten Drylands verteilt.
 ![[z_files/Drylands Map_pages-to-jpg-0001.jpg]]
