@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-10T21:35:42.190+02:00","modified":"2025-09-10T22:23:00.557+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T20:49:21.736+02:00","modified":"2025-09-17T18:39:25.899+02:00","cssclasses":""}
 ---
 
 
@@ -29,7 +29,7 @@ Schusswaffen haben das Feature **Reload (x)**, da sie im Kampf nachgeladen werde
 | Name            | Trait               | Range      | Damage                                               | Burden     | Feature                                                                                                                                                                                                                                                                                        |
 | --------------- | ------------------- | ---------- | ---------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Lasso           | Agility<br>Instinct | Very Close | Tier1:d4<br>Tier2:d4+3<br>Tier3:d4+6<br>Tier4:d4+9   | One-Handed | **Roped**: Triffst du ein Ziel, kannst du es einfangen, statt Schaden zu machen. Eingefangene Ziele sind *restrained* und *vurnerable*, solange du in Close Range bleibst. Wenn das Ziel sich befreit, kannst du einen Strength reaction Roll machen, beim Erfolg bleibt das Ziel eingefangen. |
-| Essentia Shield | Intelect            | Melee      | d6                                                   | One-Handed | **Protective**: +1 Armor Score<br>**Essentia-Powered**: 1 Zelle pro Long Rest                                                                                                                                                                                                                  |
+| Essentia Shield | Knowledge           | Melee      | d6                                                   | One-Handed | **Protective**: +1 Armor Score<br>**Essentia-Powered**: 1 Zelle pro Long Rest                                                                                                                                                                                                                  |
 | Deringer        | Finesse             | Very Close | Tier1:d8+1<br>Tier2:d8+3<br>Tier3:d8+6<br>Tier4:d8+9 | One-Handed | **Reload (1)**<br>**Concealed**: Diese Waffe ist einfach zu verstecken                                                                                                                                                                                                                         |
 ## Rüstungen
 | Name                           | Base Threshholds | Base Score | Feature                                                                   |
