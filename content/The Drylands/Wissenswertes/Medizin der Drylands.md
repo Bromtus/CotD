@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-13T20:49:21.810+02:00","modified":"2025-09-08T23:11:54.523+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T15:11:54.869+02:00","modified":"2025-09-25T10:48:35.532+02:00","cssclasses":""}
 ---
 
 
@@ -17,12 +17,12 @@ Medizin ist in den Dryland eine selten und teure Ware. Fast alles, was nicht von
 - Wurzelstock des *Gemeinen Schwarzen Wüstenbusches*, wird getrocknet, gemahlen und geraucht
 - Wird von vielen hergestellt und verkauft, aber Reisende haben oft einen selbstgemachten Vorrat dabei. Hat viele Namen in den Drylands
 - Erdiger, beruhigender Geschmack und hochviskoser Rauch, als wenn der Mund voller Toffee ist
-- **Clear 1 Stress**, aber stiehlt den Atem, **-1 auf den nächsten Agility, Strength, Finesse check**
+- **Clear 2 Stress**, aber stiehlt den Atem, **-1 auf den nächsten Agility, Strength, Finesse check**
 # Alins-Pflaster
 - Vergrabener Kot des *gestreiften Dünenflitzers*, porös und muss durch Kauen mit Speichel vermischt werden wodurch er zu einer zähen Masse wird
 - Hat besondere antiseptischen und zellerneuernde Eigenschaften, schützt kleine und mittelgroße Verletzungen vor den harschen Bedingungen der Drylands
 - Der Legende nach wurde es von dem Outlaw Alin entdeckt, dem nach einer Schlägerei "Friss Scheiße" nachgerufen wurde
-- **Clear 1 HP**, aber der Geschmack ist widerwärtig, **mache einen DC 15 Presence roll, mark 1 Stress bei einem Failure**
+- **Clear 2 HP**, aber der Geschmack ist widerwärtig, **mache einen DC 15 Presence roll, mark 1 Stress bei einem Failure**
 # Pinker Phosphor
 - Ein Mineral, was beim Essentia-abbau am [[The Drylands/Major Outposts/Der Eisenkessel\|Eisenkessel]] anfällt. Pastell Pinke Färbung, jedoch oft mit anderen Gesteinen vermischt. Kann in einem aufwändigen Verfahren extrahiert werden und wird als Pulver nasal konsumiert
 - Hat eine stark euphorisierende Wirkung, die den Geist mit positiven Gedanken durchflutet

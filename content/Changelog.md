@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2025-09-15T16:22:13.907+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T16:22:13.227+02:00","modified":"2025-09-15T16:22:13.907+02:00","cssclasses":""}
 ---
 
 - 15.9.25 - Added: [[The Drylands/Minor Outposts/Merryway Outpost]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-09T12:22:44.803+02:00","modified":"2025-09-08T22:02:05.790+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-05T00:28:15.545+02:00","modified":"2025-09-08T22:02:05.790+02:00","cssclasses":""}
 ---
 
 Thomas erhält einen Auftrag von der [[The Drylands/Corporation/Smudgehill Mining Group]], er und ein paar andere Outlaws die sich geraden in [[The Drylands/Major Outposts/Wyllin's Gulch]] befinden sollen eine Lieferung Essentia-Rafinerieteilen und Adamant-Bohrern von dem [[The Drylands/Major Outposts/Der Eisenkessel\|Eisenkessel]] nach [[The Drylands/Major Outposts/Pryor]] zerstören. So soll verhindert werden, dass Pryor unabhängiger von den Essentia Lieferungen von SMG wird und ihr Essentia vielleicht sogar lieber aus dem Eisenkessel beziehen. 
