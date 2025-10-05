@@ -1,7 +1,9 @@
 ---
-{"publish":true,"created":"2025-10-01T23:07:08.041+02:00","modified":"2025-10-02T00:35:16.532+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-01T23:07:08.041+02:00","modified":"2025-10-05T15:52:45.183+02:00","cssclasses":""}
 ---
 
+- 5.10.25 - Added: [[The Drylands/Shops and Businesses/The Pissing Ox]]
+***
 - 2.10.25 - Added: [[The Drylands/Corporation/Hammerhead Medical Company]]
 - 2.10.25 - Added: [[The Drylands/Minor Outposts/Plentyful]]
 - 2.10.25 - Added: [[The Drylands/Minor Outposts/Timber's Gorge]]
