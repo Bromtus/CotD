@@ -1,8 +1,9 @@
 ---
-{"publish":true,"created":"2025-09-17T18:39:25.188+02:00","modified":"2025-09-17T18:39:25.899+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2025-10-10T01:14:53.894+02:00","cssclasses":""}
 ---
 
-
+Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[The Drylands/Wissenswertes/Equipment der Drylands#Equipment\|unten]].
+## Waffen in den Drylands
 Beim [[The Drylands/Wissenswertes/Essentia]]abbau fallen auch große Mengen anderer Materialien an, wie unter anderem Salpeter und Schwefel. Da es in den trockenen Drylands nicht gerade an Holzkohle mangelt bekommt man Schwarzpulver quasi in jedem Outpost und viele größere Siedlungen haben eine eigene Waffenschmiede.
 Seit der massenhaften Produktion von Essentia Zellen werden immer mehr Anwendungsbereiche erforscht. Was zunächst nur als Katalysator für Magie benutzt wurde wird in einigen Werkstätten und Laboren als Antrieb von Waffen, Rüstungen und Schilden verwented.
 ## Munition
@@ -11,30 +12,45 @@ Manche Orte bieten besondere Munition für Waffen an, wie etwa Signalgeschosse, 
 ## Pistol-Whipping und Butt-Stroking
 Eine Schusswaffe eignet sich überraschen gut als Nahkampfwaffe. Jede Waffe kann in Melee Range als Waffe mit Strength oder Finesse als Trait eingesetzt werden. Einhändige Waffen machen dabei d4, zweihändige d6 mit Proficiency physical Damage.
 ## Reloading
-Schusswaffen haben das Feature **Reload (x)**, da sie im Kampf nachgeladen werden müssen. Platziere **x Munitionstoken** auf deinem Character Sheet. Jedes mal wenn du einen Angriff mit einer Waffe mit Reload macht, gib einen Munitionstoken aus. Wenn du den letzten Token ausgibst, mache einen Reaction Roll(14) mit dem Trait der Waffen. Markiere 1 Stress bei einem Failure, dann fülle wieder alle Munitionstoken der Waffe auf.
-## Primärwaffen
+Schusswaffen haben das Feature **Reload (x)**, da sie im Kampf nachgeladen werden müssen. Platziere **x Munitionstoken** auf deinem Character Sheet. Jedes mal wenn du einen Angriff mit einer Waffe mit Reload macht, gib einen Munitionstoken aus. Wenn du den letzten Token ausgibst, mache einen Reaction **Roll(14)** mit dem Trait der Waffen. Markiere 1 Stress bei einem Failure, dann fülle wieder alle Munitionstoken der Waffe auf.
+# Equipment
+Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstungen und Waffen können einfach auf ein höheres Tier geupgradet werden (hier mit Tier: Multi angegeben). Dazu gibt es in den meisten Outposts Händler\*innen, die für eine kleine Gebühr das Upgrade durchführen können. Beim Kauf von neuen Waffen oder Rüstungen kann die alte in Zahlung gegeben werden, dabei bekommt ihr die Hälfte des hier angegebenen Preises erstattet, meist wird dabei auch aufgerundet.
+## Primärwaffen 
 
-| Name           | Trait              | Range      | Damage                                                    | Burden     | Feature                                                                                                                                                                        |
-| -------------- | ------------------ | ---------- | --------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Revolver       | Finesse<br>Agility | Far        | Tier1:d8+1<br>Tier2:d8+4<br>Tier3:d8+7<br>Tier4:d8+10     | One-Handed | **Reload (6)**                                                                                                                                                                 |
-| Rifle<br>      | Finesse            | Very Far   | Tier1:d10+2<br>Tier2:d10+5<br>Tier3:d10+8<br>Tier4:d10+11 | Two-Handed | **Reload (4)**<br>**Sightline**: Gib 2 Hope aus, um Advantage auf dem nächsten Attack Roll zu haben                                                                            |
-| Shotgun        | Strength<br>       | Very Close | Tier1:d8+2<br>Tier2:d8+5<br>Tier3:d8+8<br>Tier4:d8+11     | Two-Handed | **Reload (4)**<br>**Scattershot**: Wenn du einen Angriff machst, ziele auf alle Kreaturen in Reichweite vor dir (180°)                                                         |
-| Slug-Gun       | Strength           | Close      | Tier1:d8+1<br>Tier2:d8+4<br>Tier3:d8+7<br>Tier4:d8+10     | Two-Handed | **Reload (1)**<br>**Powerfull**: Bei einem Treffer, wirf einen Schadenswürfel mehr und verwirf den niedrigsten                                                                 |
-| Dual Revolvers | Agility            | Far        | Tier1:d6+1<br>Tier2:d6+4<br>Tier3:d6+7<br>Tier4:d6+10     | Two-handed | **Reload (6)**<br>**Quickshot**: Wenn du einen Angriff machst, gib 1 Stress und 1 Munitionstoken aus, um auf eine weitere Kreatur in Reichweite zu zielen (kann dieselbe sein) |
-| Axe-gun        | Strength           | Close      | Tier1:d8+1<br>Tier2:d8+4<br>Tier3:d8+7<br>Tier4:d8+10     | Two-Handed | **Reload (2)**<br>**Versatile**: Diese Waffe kann auch verwendet werden mit - Melee, d10+1/4/7/10                                                                              |
-
+| Tier  | Name                      | Kosten     | Erhältlich bei |
+| ----- | ------------------------- | ---------- | -------------- |
+| Multi | [[The Drylands/Equipment/Weapons/Revolver]]              | 5 Handvoll | Überall        |
+| Multi | [[The Drylands/Equipment/Weapons/Rifle]]<br>             | 5 Handvoll | Überall        |
+| Multi | [[The Drylands/Equipment/Weapons/Shotgun]]               | 5 Handvoll | Überall        |
+| Multi | [[The Drylands/Equipment/Weapons/Slug-Gun]]              | 5 Handvoll | [[The Drylands/Major Outposts/Pryor]]      |
+| Multi | [[The Drylands/Equipment/Weapons/Dual Revolvers]]        | -          | Unique         |
+| Multi | [[The Drylands/Equipment/Weapons/Axe-Gun]]               | -          | Unique         |
+| Multi | [[The Drylands/Equipment/Weapons/Custom Essentia Rifle]] | -          | Unique         |
+| 2     | Upgrade auf Tier 2        | 7 Handvoll | Überall        |
 
 ## Sekundärwaffen
 
-| Name            | Trait               | Range      | Damage                                               | Burden     | Feature                                                                                                                                                                                                                                                                                        |
-| --------------- | ------------------- | ---------- | ---------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Lasso           | Agility<br>Instinct | Very Close | Tier1:d4<br>Tier2:d4+3<br>Tier3:d4+6<br>Tier4:d4+9   | One-Handed | **Roped**: Triffst du ein Ziel, kannst du es einfangen, statt Schaden zu machen. Eingefangene Ziele sind *restrained* und *vurnerable*, solange du in Close Range bleibst. Wenn das Ziel sich befreit, kannst du einen Strength reaction Roll machen, beim Erfolg bleibt das Ziel eingefangen. |
-| Essentia Shield | Knowledge           | Melee      | d6                                                   | One-Handed | **Protective**: +1 Armor Score<br>**Essentia-Powered**: 1 Zelle pro Long Rest                                                                                                                                                                                                                  |
-| Deringer        | Finesse             | Very Close | Tier1:d8+1<br>Tier2:d8+3<br>Tier3:d8+6<br>Tier4:d8+9 | One-Handed | **Reload (1)**<br>**Concealed**: Diese Waffe ist einfach zu verstecken                                                                                                                                                                                                                         |
+| Tier  | Name                | Kosten     | Erhältlich bei     |
+| ----- | ------------------- | ---------- | ------------------ |
+| Multi | [[The Drylands/Equipment/Weapons/Lasso]]           | 3 Handvoll | Überall            |
+| Multi | [[The Drylands/Equipment/Weapons/Deringer]]        | 4 Handvoll | [[The Drylands/Major Outposts/Wyllin's Gulch]] |
+| 1     | [[The Drylands/Equipment/Weapons/Essentia Shield]] | 5 Handvoll | Überall            |
+
 ## Rüstungen
-| Name                           | Base Threshholds | Base Score | Feature                                                                   |
-| ------------------------------ | ---------------- | ---------- | ------------------------------------------------------------------------- |
-| Gambeson Armor                 | 5/11             | 3          | **Flexible**: +1 auf Evasion                                              |
-| Leather Armor                  | 6/13             | 3          |                                                                           |
-| Sewn in Iron Plate             | 7/15             | 4          | **Heavy**: -1 auf Evasion                                                 |
-| Rudimentary <br>Essentia Armor | 8/17             | 4          | **Heavy**: -1 auf Evasion<br>**Essentia Powered**: 2 Zellen pro Long Rest |
+
+| Tier  | Name                                                            | Kosten     | Erhältlich bei                     |
+| ----- | --------------------------------------------------------------- | ---------- | ---------------------------------- |
+| Multi | [[The Drylands/Equipment/Armor/Gambeson Armor\|Gambeson Armor]] | 4 handvoll | Überall                            |
+| Multi | [[The Drylands/Equipment/Armor/Leather Armor\|Leather Armor]]   | 4 Handvoll | Überall                            |
+| Multi | [[The Drylands/Equipment/Armor/Sewn in Iron Plate]]                                          | 4 Handvoll | Überall                            |
+| Multi | [[The Drylands/Equipment/Armor/Essentia Armor]]                                              | 4 Handvoll | Überall                            |
+| 2     | Upgrade auf Tier 2                                              | 7 Handvoll | Überall                            |
+| 2     | [[The Drylands/Equipment/Armor/Mirage Armor]]                                                | 1.2 Säcke  | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]] |
+| 2     | [[The Drylands/Equipment/Armor/Inverse Field Generator]]                                     | 1.2 Säcke  | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]] |
+
+## Items
+| Art            | Name                | Kosten     | Erhältlich bei                     |
+| -------------- | ------------------- | ---------- | ---------------------------------- |
+| Consumable     | [[The Drylands/Equipment/Items/Essentia Bullet]] | 1 Handvoll | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]] |
+| Item           | [[The Drylands/Equipment/Items/Flickerscarf]]    | 1 Sack     | [[The Drylands/Major Outposts/Wyllin's Gulch]]                 |
+| Weapon Upgrade | [[The Drylands/Equipment/Items/Essentia Loader]] | 8 Handvoll | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]] |
