@@ -1,10 +1,11 @@
 ---
-{"publish":true,"created":"2025-10-10T00:22:25.904+02:00","modified":"2025-10-10T00:23:28.796+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T00:22:25.904+02:00","modified":"2025-10-10T01:23:46.865+02:00","cssclasses":""}
 ---
 
 # Axe-Gun
 
 **Trait:** Strength
+
 **Range:** Close
 
 | Tier | Damage      |
