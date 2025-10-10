@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2025-10-10T01:25:51.892+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2025-10-10T02:04:03.274+02:00","cssclasses":""}
 ---
 
 Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[The Drylands/Wissenswertes/Equipment der Drylands#Equipment\|unten]].
@@ -27,7 +27,6 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | Multi | [[The Drylands/Equipment/Weapons/Axe-Gun]]               | -          | Unique         |
 | Multi | [[The Drylands/Equipment/Weapons/Custom Essentia Rifle]] | -          | Unique         |
 | 2     | Upgrade auf Tier 2        | 7 Handvoll | Überall        |
-
 ## Sekundärwaffen
 
 | Tier  | Name                | Kosten     | Erhältlich bei     |
@@ -35,7 +34,6 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | Multi | [[The Drylands/Equipment/Weapons/Lasso]]           | 3 Handvoll | Überall            |
 | Multi | [[The Drylands/Equipment/Weapons/Deringer]]        | 4 Handvoll | [[The Drylands/Major Outposts/Wyllin's Gulch]] |
 | 1     | [[The Drylands/Equipment/Weapons/Essentia Shield]] | 5 Handvoll | Überall            |
-
 ## Rüstungen
 
 | Tier  | Name                                                            | Kosten     | Erhältlich bei                     |
@@ -47,11 +45,20 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | 2     | Upgrade auf Tier 2                                              | 7 Handvoll | Überall                            |
 | 2     | [[The Drylands/Equipment/Armor/Mirage Armor]]                                                | 1.2 Säcke  | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]] |
 | 2     | [[The Drylands/Equipment/Armor/Inverse Field Generator]]                                     | 1.2 Säcke  | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]] |
-
 ## Items
 | Art            | Name                    | Kosten     | Erhältlich bei                            |
 | -------------- | ----------------------- | ---------- | ----------------------------------------- |
-| Consumable     | [[The Drylands/Equipment/Items/Essentia Bullet]]     | 1 Handvoll | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]        |
-| Item           | [[The Drylands/Equipment/Items/Flickerscarf]]        | 1 Sack     | [[The Drylands/Major Outposts/Wyllin's Gulch]]                        |
+| Utility        | [[The Drylands/Equipment/Items/Flickerscarf]]        | 1 Sack     | [[The Drylands/Major Outposts/Wyllin's Gulch]]                        |
 | Weapon Upgrade | [[The Drylands/Equipment/Items/Essentia Loader]]     | 8 Handvoll | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]        |
+| Weapon Upgrade | [[The Drylands/Equipment/Items/Kaliberupgrade]]      | 3 Säcke    | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]        |
 | ???            | [[The Drylands/Equipment/Items/Mysteriöser Schleim]] | 9 Handvoll | Fungril-Verkäuferin in [[The Drylands/Major Outposts/Wyllin's Gulch]] |
+## Consumables
+| Art          | Name                                                                                        | Kosten     | Erhältlich bei                                          |
+| ------------ | ------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------- |
+| Damage       | [[The Drylands/Equipment/Items/Essentia Bullet]]                                                                         | 1 Handvoll | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]                      |
+| Damage       | [[The Drylands/Equipment/Items/Silver Bullets]]                                                                          | 1 Handvoll | Überall                                                 |
+| Heilung      | [[The Drylands/Wissenswertes/Medizin der Drylands#Nichtopioides Antiphlogistisches Remidium Analgeticum (Nara)\|Nara]] | 2 Handvoll | Überall (günstiger in [[The Drylands/Major Outposts/The Cinderline\|Cinderline]])   |
+| Heilung      | [[The Drylands/Wissenswertes/Medizin der Drylands#Tabak\|Tabak]]                                                       | 3 Handvoll | Überall (günstiger in [[The Drylands/Major Outposts/Wyllin's Gulch]])               |
+| Heilung(?)   | Große Mengen [[The Drylands/Wissenswertes/Medizin der Drylands#Alkohol\|Alkohol]]                                      | 1 Handvoll | Wirklich Überall                                        |
+| Heilung(???) | [[The Drylands/Wissenswertes/Medizin der Drylands#Pinker Phosphor\|Pinker Phosphor]]                                   | 2 Handvoll | Crime Hotspots                                          |
+| Resource     | [[The Drylands/Wissenswertes/Essentia]] x5                                                                             | 2 Handvoll | Überall (günstiger im [[The Drylands/Major Outposts/Der Eisenkessel\|Eisenkessel]]) |
