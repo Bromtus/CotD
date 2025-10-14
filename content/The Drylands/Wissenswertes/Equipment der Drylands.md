@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2025-10-10T02:04:03.274+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2025-10-14T23:29:27.108+02:00","cssclasses":""}
 ---
 
 Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[The Drylands/Wissenswertes/Equipment der Drylands#Equipment\|unten]].
@@ -50,7 +50,6 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | -------------- | ----------------------- | ---------- | ----------------------------------------- |
 | Utility        | [[The Drylands/Equipment/Items/Flickerscarf]]        | 1 Sack     | [[The Drylands/Major Outposts/Wyllin's Gulch]]                        |
 | Weapon Upgrade | [[The Drylands/Equipment/Items/Essentia Loader]]     | 8 Handvoll | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]        |
-| Weapon Upgrade | [[The Drylands/Equipment/Items/Kaliberupgrade]]      | 3 Säcke    | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]        |
 | ???            | [[The Drylands/Equipment/Items/Mysteriöser Schleim]] | 9 Handvoll | Fungril-Verkäuferin in [[The Drylands/Major Outposts/Wyllin's Gulch]] |
 ## Consumables
 | Art          | Name                                                                                        | Kosten     | Erhältlich bei                                          |
