@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-01T22:57:49.798+02:00","modified":"2025-10-02T00:08:49.162+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-01T19:34:00.404+02:00","modified":"2025-10-02T00:08:49.162+02:00","cssclasses":""}
 ---
 
 Als Thalis bei [[The Drylands/Corporation/Ludwig Pharmazeutika]] angefangen hat wurde sie zunächst nur auf Freelancing basis angestellt und ein Großteil ihrer Aufträge bestanden aus Begleitschutz für Warentransporte und Bewachung von kleineren Lagerhäusern. Das Pharmaunternehmen beschäftigt auf diese Weise viele seiner Mitarbeitenden, denn durch den Freelance Status bleiben den Angestellten die (ohnehin wenigen) Arbeitnehmerrechte vorenthalten. Besonders nützliche oder effektive Arbeiter\*innen werden jedoch fest unter Vertrag genommen.

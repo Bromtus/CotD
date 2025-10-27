@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-09T23:50:40.927+02:00","modified":"2025-10-10T01:02:46.138+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T19:22:32.117+02:00","modified":"2025-10-10T01:02:46.138+02:00","cssclasses":""}
 ---
 
 Zu & Auf ist ein von den Zwergen-cousins Schorn Zu und Schorn Auf geführter Eisenwarenhandel. Die beiden Läden befinden sich in den unteren Verkaufsebenen von [[The Drylands/Major Outposts/Wyllin's Gulch]] und teilen sich eine Lagerfläche mit je einer Verkaufsfläche an benachbarten Straßen.

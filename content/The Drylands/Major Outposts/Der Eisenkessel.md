@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Eisenkessel","created":"2025-08-17T00:56:16.026+02:00","modified":"2025-08-17T00:56:16.074+02:00","cssclasses":""}
+{"publish":true,"aliases":"Eisenkessel","created":"2025-08-13T20:49:21.515+02:00","modified":"2025-08-17T00:56:16.074+02:00","cssclasses":""}
 ---
 
 **Die Fabrik**

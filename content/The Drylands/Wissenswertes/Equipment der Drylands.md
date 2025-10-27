@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2025-10-14T23:29:27.108+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T20:49:21.736+02:00","modified":"2025-10-14T23:29:27.108+02:00","cssclasses":""}
 ---
 
 Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[The Drylands/Wissenswertes/Equipment der Drylands#Equipment\|unten]].

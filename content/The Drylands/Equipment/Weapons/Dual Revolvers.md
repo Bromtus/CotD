@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-10T00:20:12.532+02:00","modified":"2025-10-10T00:21:52.478+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T19:22:32.488+02:00","modified":"2025-10-10T00:21:52.478+02:00","cssclasses":""}
 ---
 
 # DUAL REVOLVERS

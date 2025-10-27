@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-09T23:58:25.497+02:00","modified":"2025-10-10T01:31:17.531+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T19:22:32.426+02:00","modified":"2025-10-27T20:36:33.077+01:00","cssclasses":""}
 ---
 
 
@@ -8,5 +8,6 @@
 
 **Feature:** ***Shifting:*** When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage.
 
-*It was originally developed in order to heat food, but its capabilities to nullify magic (and to some extend bullets) seemed even more usefull.*
+*Trying to follow the cape with your eyes is like tracing a grain of sand in a sandstorm.*
+
 *Armor - Tier 2*
