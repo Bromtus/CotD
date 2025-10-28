@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2025-10-10T01:17:30.147+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2025-10-27T22:28:33.889+01:00","cssclasses":""}
 ---
 
+- 27.10.25 - Added: [[The Drylands/Outlaw Gangs/Tumbleweed Raiders]]
+- 27.10.25 - Changed: [[The Drylands/Shops and Businesses/The Pissing Ox]]
+***
 - 9.10.25 - Added: [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]
 - 9.10.25 - Changed: [[The Drylands/Wissenswertes/Equipment der Drylands]]
 - 9.10.25 - Added: [[Equipment/]]
