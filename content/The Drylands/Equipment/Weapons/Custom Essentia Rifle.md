@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-10T19:22:32.271+02:00","modified":"2025-10-10T01:02:59.436+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T00:50:31.009+02:00","modified":"2025-10-10T01:02:59.436+02:00","cssclasses":""}
 ---
 
 # Custom Essentia Rifle

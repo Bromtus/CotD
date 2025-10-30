@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-10T19:22:32.484+02:00","modified":"2025-10-10T00:28:43.508+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T00:26:21.061+02:00","modified":"2025-10-10T00:28:43.508+02:00","cssclasses":""}
 ---
 
 # LASSO
