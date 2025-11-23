@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-10-27T22:28:33.265+01:00","modified":"2025-10-27T22:28:33.889+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2025-11-23T16:40:16.129+01:00","cssclasses":""}
 ---
 
+- 23.11.25 - Added: [[The Drylands/Wissenswertes/World Lore]]
+- 23.11.25 - Changed: [[The Drylands/Wissenswertes/Sagen und Legenden]]
+***
 - 27.10.25 - Added: [[The Drylands/Outlaw Gangs/Tumbleweed Raiders]]
 - 27.10.25 - Changed: [[The Drylands/Shops and Businesses/The Pissing Ox]]
 ***

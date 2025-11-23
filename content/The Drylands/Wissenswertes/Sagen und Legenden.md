@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-24T01:37:44.261+02:00","modified":"2025-08-24T01:37:44.261+02:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T15:06:05.245+01:00","modified":"2025-11-23T16:39:33.403+01:00","cssclasses":""}
 ---
 
 
@@ -16,6 +16,18 @@ Diese Legende wird nur von wenigen Bergleuten geglaubt und oft dient sie nur als
 > Neidisch, sie ist neidisch, sie will das Essentia ganz für sich alleine! dachte sich die jüngere sofort und griff an ihren Gürtel. FRRTTTSCH, hallte das nasse knirschen ihrer Spitzhacke durch die Tunnel, gefolgt vom dumpfen Platschen des reglosen Körpers der Älteren. Das Blut dass an der Spitzhacke in der Hand der Jüngeren klebte und aus der Schläfe der Älteren floss schien fast schwarz im blauen Licht des Kristalls.
 > Aus der Hand der Älteren viel der Luftmesser zu Boden, dessen Nadel entschlossen auf "Achtung Giftgas" deutete. Sie wollte alles für sich allein! dachte die Jüngere, während sie die Spitzhacke wieder an ihrem Gürtel befestigte. Das surren ihres eigenen Luftmessgeräts überhörte sie völlig, immerhin hatten die Beiden schon seit Tagen keine Essentia Zellen mehr für die Geräte.
 > Eine Woche später wurde ein Suchtrupp von den Tycoons losgeschickt, der die Schwestern finden sollte. Die Truppe konnte die zerhackte und verwesende Leiche bereits riechen bevor sie den Höhleneingang auch nur sahen. Die Höhle wurde von den Tycoons gesperrt und verkündet, die ältere Schwester wurde sie von wilden Tieren angegriffen. Auf dem Land wurde die erste Essentia Mine erbaut, die bis heute besteht. Aber vom riesenhaften Kristall fehlt bis heute jede Spur, nur ein paar des Suchtrupps behaupten das Klirren einer Spitzhacke aus den Tiefen der Höhle vernommen haben. Manche glaube, das Klirren auch heute noch zu hören, aus den Tiefen der Mine.
+# The Sisters' Song
+>First light shines, what is to come,
+>the Soon, the Maiden, the Youngest One.
+>  
+> Day it is, high stands the sun,
+> the Now, the Mother, the Middle One.
+>   
+> Darkness falls and deeds are done,
+> the Then, the Crone, the Oldest One.
+> 
+> The night is here, the light has gone,
+> Three will be, are, were always One.
 # Sagen der alten Götter
 Neben der Prophezeiung der alten Götter gibt es viele Geschichten über die anderen alten Götter, die die Drylands mit geschaffen haben. 
 ### Die Sage vom Auge des Sturms
