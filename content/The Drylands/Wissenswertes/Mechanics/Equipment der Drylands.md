@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2025-10-14T23:29:27.108+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2025-11-29T21:26:45.420+01:00","cssclasses":""}
 ---
 
 Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[The Drylands/Wissenswertes/Mechanics/Equipment der Drylands#Equipment\|unten]].
@@ -24,7 +24,6 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | Multi | [[The Drylands/Equipment/Weapons/Shotgun]]               | 5 Handvoll | Überall        |
 | Multi | [[The Drylands/Equipment/Weapons/Slug-Gun]]              | 5 Handvoll | [[The Drylands/Major Outposts/Pryor]]      |
 | Multi | [[The Drylands/Equipment/Weapons/Dual Revolvers]]        | -          | Unique         |
-| Multi | [[The Drylands/Equipment/Weapons/Axe-Gun]]               | -          | Unique         |
 | Multi | [[The Drylands/Equipment/Weapons/Custom Essentia Rifle]] | -          | Unique         |
 | 2     | Upgrade auf Tier 2        | 7 Handvoll | Überall        |
 ## Sekundärwaffen
