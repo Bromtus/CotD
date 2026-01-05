@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-30T15:30:59.038+01:00","modified":"2025-12-04T20:01:52.611+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-30T15:30:59.038+01:00","modified":"2026-01-05T23:34:26.809+01:00","cssclasses":""}
 ---
 
 Einige Meilen südlich von [[The Drylands/Minor Outposts/Plentyful]] befindet sich ein Gebirgsrand mit unnatürlich feuchtem Sandboden und eine Häufung von Wüstenpflanzen. Folgt man diesen Vegetationsstreifen aufmerksam lassen sich Risse im Gebirge erkennen, kaum einen Meter breit, aus denen angenehm frische Luft strömt.
@@ -9,3 +9,6 @@ Unter den bis jetzt beobachteten Wesen befinden sich Vögel mit pelzigen köpfen
 
 In Cord's Höhle bemerkt Ava dass ihre Lieder, die sie am Lagerfeuer anstimmt viel durchdringender und klarer zu sein scheinen, fast so als wenn die Luft selbst mit einstimmt. Thomas bemerkt, dass sich seine mechanischen Teile seltsam anfühlen, so als währen sie gleichzeitig eingeschlafen aber auch stärker. Ava teilt das Gefühl
 Die Pferde der beiden sind ungewöhnlich ruhig, trotz der angespannten Lage.
+![[z_files/Wetlands clear.png]]
+![[z_files/Wetlands anotated.png]]
+![[z_files/Wetlands save Paths.png]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-13T15:11:54.869+02:00","modified":"2025-09-25T10:48:35.532+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T15:11:54.869+02:00","modified":"2026-01-02T02:37:00.541+01:00","cssclasses":""}
 ---
 
 
@@ -7,6 +7,7 @@ Medizin ist in den Dryland eine selten und teure Ware. Fast alles, was nicht von
 # Tabak
 - Echter Tabak wächst nicht in den Drylands und muss von weit her importiert werden, trotzdem erfreut er sich größter Beliebtheit under Outlaws und Konzernchef\*innen zugleich.
 - Außerhalb der großen Outposts greifen viele auf lokale Alternativen zurück, wie das vor allem im Süden wachsende Kümmerkraut, welches aber deutlich schlechter schmeckt
+- Eine Schachtel enthält meist zwischen 10-16 Zigaretten, Stress kann aber nur gecleared werden, wenn eine neue Schachtel angebrochen wird
 - **Clear 1d4 Stress**
 # Nichtopioides Antiphlogistisches Remidium Analgeticum (Nara)
 - Das Flagschiffprodukt von [[The Drylands/Corporation/Ludwig Pharmazeutika]], ein allround Schmerzmittel und Wundheilungsbeschleuniger. 
