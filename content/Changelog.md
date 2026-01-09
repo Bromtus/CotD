@@ -1,7 +1,9 @@
 ---
-{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2025-12-09T23:33:37.904+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2026-01-10T00:32:50.214+01:00","cssclasses":""}
 ---
 
+- 10.1.26 - Added: [[The Drylands/Wissenswertes/Mechanics/Berittener Kampf]]
+***
 - 9.12.25 - Added: [[The Drylands/Landmarks/Wetlands\|The Wetlands]]
 - 9.12.25 - Changed: [[The Drylands/Minor Outposts/Plentyful]]
 ***
