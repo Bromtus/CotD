@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-10-10T00:16:24.550+02:00","modified":"2025-10-10T00:18:38.892+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T00:16:24.550+02:00","modified":"2026-01-12T14:14:00.224+01:00","cssclasses":""}
 ---
 
 # SHOTGUN
 
 **Trait:** Strength
-**Range:** Close
+**Range:** Very Close
 
 | Tier | Damage      |
 | ---- | ----------- |
@@ -15,7 +15,7 @@
 | 4    | d8 + 11 phy |
 **Burden:** Two-Handed
 
-**Feature: Reload (4):** See [[The Drylands/Wissenswertes/Equipment der Drylands#Reloading\|Reloading]]
+**Feature: Reload (4):** See [[The Drylands/Wissenswertes/Mechanics/Equipment der Drylands#Reloading\|Reloading]]
 **Scattershot:** Wenn du einen Angriff machst, ziele auf alle Kreaturen in Reichweite vor dir (180°)
 
 *Primary Weapon*
