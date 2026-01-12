@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-10-10T00:16:24.550+02:00","modified":"2026-01-12T20:58:56.746+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T00:16:24.550+02:00","modified":"2026-01-12T20:59:21.999+01:00","cssclasses":""}
 ---
 
 # SHOTGUN
 
 **Trait:** Strength
-**Range:** Very Close
+**Range:** Close
 
 | Tier | Damage      |
 | ---- | ----------- |
