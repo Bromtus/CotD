@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-10T00:16:24.550+02:00","modified":"2026-01-12T14:14:00.224+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T00:16:24.550+02:00","modified":"2026-01-12T20:58:56.746+01:00","cssclasses":""}
 ---
 
 # SHOTGUN
@@ -16,6 +16,6 @@
 **Burden:** Two-Handed
 
 **Feature: Reload (4):** See [[The Drylands/Wissenswertes/Mechanics/Equipment der Drylands#Reloading\|Reloading]]
-**Scattershot:** Wenn du einen Angriff machst, ziele auf alle Kreaturen in Reichweite vor dir (180°)
+**Scattershot:** Wenn du einen Angriff machst, benutze deinen Angriffswurf auch gegen alle Ziele in einer Linie zum Ziel und in Melee Range vom Ziel.
 
 *Primary Weapon*
