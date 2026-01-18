@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-01T23:11:43.750+02:00","modified":"2025-10-01T23:18:49.647+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-07T21:01:53.257+02:00","modified":"2025-10-01T23:18:49.647+02:00","cssclasses":""}
 ---
 
 Hammerhead Medical Company (MedCo) war ein vor 27 Jahren in den Drylands gegründetes Pharmaunternehmen und direkter Konkurrent von [[The Drylands/Corporation/Ludwig Pharmazeutika]].

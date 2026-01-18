@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-06T12:02:47.482+01:00","modified":"2025-12-09T23:34:00.797+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-01T19:43:42.152+02:00","modified":"2025-12-09T23:34:00.797+01:00","cssclasses":""}
 ---
 
 Der Outpost Plentiful befindet sich in den südlichen Ebenen der [[The Drylands/Wissenswertes/Lore/Drylands]], etwa zwei Tagesritte westliche von [[The Drylands/Major Outposts/The Cinderline\|Cinderline]]. 

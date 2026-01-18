@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-10T01:25:53.283+02:00","modified":"2025-10-10T01:28:39.513+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T19:22:32.412+02:00","modified":"2025-10-10T01:28:39.513+02:00","cssclasses":""}
 ---
 
 # MYSTERIÖSER SCHLEIM
