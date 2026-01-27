@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"the Wetlands The Wetlands die Wetlands","created":"2025-12-13T20:35:21.687+01:00","modified":"2025-12-09T23:27:14.091+01:00","cssclasses":""}
+{"publish":true,"aliases":"the Wetlands The Wetlands die Wetlands","created":"2025-12-09T23:26:40.190+01:00","modified":"2025-12-09T23:27:14.091+01:00","cssclasses":""}
 ---
 
 Einige Meilen südlich von [[The Drylands/Minor Outposts/Plentyful]] befindet sich ein Gebirgsrand mit unnatürlich feuchtem Sandboden und eine Häufung von Wüstenpflanzen. Folgt man diesen Vegetationsstreifen aufmerksam lassen sich Risse im Gebirge erkennen, kaum einen Meter breit, aus denen angenehm frische Luft strömt.

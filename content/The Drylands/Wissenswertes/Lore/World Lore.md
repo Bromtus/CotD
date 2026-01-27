@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-24T11:38:18.239+01:00","modified":"2026-01-12T23:51:06.667+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-06T11:58:35.700+01:00","modified":"2026-01-27T00:39:37.839+01:00","cssclasses":""}
 ---
 
 
@@ -10,12 +10,12 @@ Einmal im Monat, alle 29 Tage, durchläuft Daear den Schatten von Enaid, wobei D
 # Kalender
 Das Jahr in der Welt der Drylands wird unterteilt in 10 Monate à 4 Wochen mit je 7 Tagen, inklusive einem extra Tag am Ende jedes Monats, den [[The Drylands/Wissenswertes/Lore/Rednight\|Rednights]]. Ein Jahr besteht also insgesamt aus 10\*4\*7+10=290 Tagen.
 
-| So  | Mo  | Di  | Mi  | Do  | Fr  | Sa  | Re   |
-| --- | --- | --- | --- | --- | --- | --- | ---- |
-| 1   | 2   | 3   | 4   | 5   | 6   | 7   |      |
-| 8   | 9   | 10  | 11  | 12  | 13  | 14  |      |
-| 15  | 16  | 17  | 18  | 19  | 20  | 21  |      |
-| 22  | 23  | 24  | 25  | 26  | 27  | 28  | 0/29 |
+| So  | Mo  | Di  | Mi  | Do  | Fr  | Sa  | Re  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | 2   | 3   | 4   | 5   | 6   | 7   |     |
+| 8   | 9   | 10  | 11  | 12  | 13  | 14  |     |
+| 15  | 16  | 17  | 18  | 19  | 20  | 21  |     |
+| 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 
 | Monat | Name   |
 | :---: | ------ |

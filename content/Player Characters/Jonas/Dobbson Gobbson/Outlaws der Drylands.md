@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-27T18:05:31.284+01:00","modified":"2025-10-26T00:01:53.305+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-25T22:52:06.431+02:00","modified":"2025-10-26T00:01:53.305+02:00","cssclasses":""}
 ---
 
 Als Sheriff der Drylands hast du schon mit einigen Übeltäter\*innen zu tun gehabt. Du hast einen groben Überblick über die Gangs in Wyllin's Gulch und den Drylands, und mit wem man sich besser nicht alleine anlegen sollte.
