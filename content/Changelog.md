@@ -1,7 +1,9 @@
 ---
-{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2026-01-10T00:32:50.214+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2026-01-27T17:33:49.540+01:00","cssclasses":""}
 ---
 
+- 27.1.26 - Added: [[The Drylands/Landmarks/The Five Brothers]]
+---
 - 10.1.26 - Added: [[The Drylands/Wissenswertes/Mechanics/Berittener Kampf]]
 ***
 - 9.12.25 - Added: [[The Drylands/Landmarks/Wetlands\|The Wetlands]]
