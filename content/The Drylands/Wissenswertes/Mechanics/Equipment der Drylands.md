@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2025-11-29T21:26:45.420+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2026-01-27T19:13:59.317+01:00","cssclasses":""}
 ---
 
 Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[The Drylands/Wissenswertes/Mechanics/Equipment der Drylands#Equipment\|unten]].
@@ -35,28 +35,42 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | 1     | [[The Drylands/Equipment/Weapons/Essentia Shield]] | 5 Handvoll | Überall            |
 ## Rüstungen
 
-| Tier  | Name                                                            | Kosten     | Erhältlich bei                     |
-| ----- | --------------------------------------------------------------- | ---------- | ---------------------------------- |
-| Multi | [[The Drylands/Equipment/Armor/Gambeson Armor\|Gambeson Armor]] | 4 handvoll | Überall                            |
-| Multi | [[The Drylands/Equipment/Armor/Leather Armor\|Leather Armor]]   | 4 Handvoll | Überall                            |
-| Multi | [[The Drylands/Equipment/Armor/Sewn in Iron Plate]]                                          | 4 Handvoll | Überall                            |
-| Multi | [[The Drylands/Equipment/Armor/Essentia Armor]]                                              | 4 Handvoll | Überall                            |
-| 2     | Upgrade auf Tier 2                                              | 7 Handvoll | Überall                            |
-| 2     | [[The Drylands/Equipment/Armor/Mirage Armor]]                                                | 1.2 Säcke  | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]] |
-| 2     | [[The Drylands/Equipment/Armor/Inverse Field Generator]]                                     | 1.2 Säcke  | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]] |
+| Tier  | Name                                                            | Kosten     | Erhältlich bei                                                       |
+| ----- | --------------------------------------------------------------- | ---------- | -------------------------------------------------------------------- |
+| Multi | [[The Drylands/Equipment/Armor/Gambeson Armor\|Gambeson Armor]] | 4 handvoll | Überall                                                              |
+| Multi | [[The Drylands/Equipment/Armor/Leather Armor\|Leather Armor]]   | 4 Handvoll | Überall                                                              |
+| Multi | [[The Drylands/Equipment/Armor/Sewn in Iron Plate]]                                          | 4 Handvoll | Überall                                                              |
+| Multi | [[The Drylands/Equipment/Armor/Essentia Armor]]                                              | 4 Handvoll | Überall                                                              |
+| 2     | Upgrade auf Tier 2                                              | 7 Handvoll | Überall                                                              |
+| 2     | [[The Drylands/Equipment/Armor/Mirage Armor]]                                                | 1.2 Säcke  | Wyllin's Gulch ([[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
+| 2     | [[The Drylands/Equipment/Armor/Inverse Field Generator]]                                     | 1.2 Säcke  | Wyllin's Gulch ([[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
 ## Items
-| Art            | Name                    | Kosten     | Erhältlich bei                            |
-| -------------- | ----------------------- | ---------- | ----------------------------------------- |
-| Utility        | [[The Drylands/Equipment/Items/Flickerscarf]]        | 1 Sack     | [[The Drylands/Major Outposts/Wyllin's Gulch]]                        |
-| Weapon Upgrade | [[The Drylands/Equipment/Items/Essentia Loader]]     | 8 Handvoll | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]        |
-| ???            | [[The Drylands/Equipment/Items/Mysteriöser Schleim]] | 9 Handvoll | Fungril-Verkäuferin in [[The Drylands/Major Outposts/Wyllin's Gulch]] |
+| Art            | Name                               | Kosten     | Erhältlich bei                                                      |
+| -------------- | ---------------------------------- | ---------- | ------------------------------------------------------------------- |
+| Weapon Upgrade | [[The Drylands/Equipment/Items/Essentia Loader]]                | 8 Handvoll | Wyllin's Gulch([[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
+| Defense        | [[The Drylands/Equipment/Items/Mysteriöser Schleim]]            | 9 Handvoll | Wyllin's Gulch (Fungril Händlerin)                                  |
+| Defense        | [[The Drylands/Equipment/Items/O'Donnel's Thick-Hide Tincture]] | 9 Handvoll | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | [[The Drylands/Equipment/Items/Edna's Slippery Snakeoil]]       | 1.1 Sack   | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | [[The Drylands/Equipment/Items/Cassidy's Calming Concoction]]   | 1 Sack     | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | [[The Drylands/Equipment/Items/Lennie's Hearty Health-Up]]      | 1.2 Sack   | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Utility        | [[The Drylands/Equipment/Items/Adlergläser]]                    | 4 Handvoll | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Utility        | [[The Drylands/Equipment/Items/Inmotisol]]                      | 8 Handvoll | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Utility        | [[The Drylands/Equipment/Items/Flickerscarf]]                   | 1 Sack     | Wyllin's Gulch([[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
 ## Consumables
-| Art          | Name                                                                                        | Kosten     | Erhältlich bei                                          |
-| ------------ | ------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------- |
-| Damage       | [[The Drylands/Equipment/Items/Essentia Bullet]]                                                                         | 1 Handvoll | [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]                      |
-| Damage       | [[The Drylands/Equipment/Items/Silver Bullets]]                                                                          | 1 Handvoll | Überall                                                 |
-| Heilung      | [[The Drylands/Wissenswertes/Mechanics/Medizin der Drylands#Nichtopioides Antiphlogistisches Remidium Analgeticum (Nara)\|Nara]] | 2 Handvoll | Überall (günstiger in [[The Drylands/Major Outposts/The Cinderline\|Cinderline]])   |
-| Heilung      | [[The Drylands/Wissenswertes/Mechanics/Medizin der Drylands#Tabak\|Tabak]]                                                       | 3 Handvoll | Überall (günstiger in [[The Drylands/Major Outposts/Wyllin's Gulch]])               |
-| Heilung(?)   | Große Mengen [[The Drylands/Wissenswertes/Mechanics/Medizin der Drylands#Alkohol\|Alkohol]]                                      | 1 Handvoll | Wirklich Überall                                        |
-| Heilung(???) | [[The Drylands/Wissenswertes/Mechanics/Medizin der Drylands#Pinker Phosphor\|Pinker Phosphor]]                                   | 2 Handvoll | Crime Hotspots                                          |
-| Resource     | [[The Drylands/Wissenswertes/Lore/Essentia]] x5                                                                             | 2 Handvoll | Überall (günstiger im [[The Drylands/Major Outposts/Der Eisenkessel\|Eisenkessel]]) |
+| Art          | Name                                                                                        | Kosten     | Erhältlich bei                                                       |
+| ------------ | ------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------- |
+| Resource     | 5x [[The Drylands/Wissenswertes/Lore/Essentia]]                                                                             | 2 Handvoll | Überall (3 für 1g im [[The Drylands/Major Outposts/Der Eisenkessel\|Eisenkessel]])               |
+| Damage       | [[The Drylands/Equipment/Consumables/Essentia Bullet]]                                                                         | 1 Handvoll | Wyllin's Gulch ([[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
+| Damage       | [[The Drylands/Equipment/Consumables/Silver Bullets]]                                                                          | 1 Handvoll | Überall                                                              |
+| Heilung      | [[The Drylands/Wissenswertes/Mechanics/Medizin der Drylands#Nichtopioides Antiphlogistisches Remidium Analgeticum (Nara)\|Nara]] | 2 Handvoll | Überall (2 für 3g in [[The Drylands/Major Outposts/The Cinderline\|Cinderline]])                 |
+| Heilung      | [[The Drylands/Equipment/Consumables/Nara 800er]]                                                                              | 3 Handvoll | Cinderline                                                           |
+| Heilung      | 2x [[The Drylands/Wissenswertes/Mechanics/Medizin der Drylands#Tabak\|Tabak]]                                                    | 3 Handvoll | Überall (1 für 1g in [[The Drylands/Major Outposts/Wyllin's Gulch]])                             |
+| Heilung(?)   | [[The Drylands/Equipment/Consumables/Mystery Tonic]]                                                                           | 1 Handvoll | Cinderline (Illegal)                                                 |
+| Heilung(?)   | Große Mengen [[The Drylands/Wissenswertes/Mechanics/Medizin der Drylands#Alkohol\|Alkohol]]                                      | 1 Handvoll | Wirklich Überall                                                     |
+| Heilung(???) | [[The Drylands/Wissenswertes/Mechanics/Medizin der Drylands#Pinker Phosphor\|Pinker Phosphor]]                                   | 2 Handvoll | Überall (Illegal)                                                    |
+| Buff         | 3x [[The Drylands/Equipment/Consumables/Booster Potion]]                                                                       | 1 Handvoll | Cinderline                                                           |
+| Buff         | 2x [[The Drylands/Equipment/Consumables/Karottensaft]]                                                                         | 1 Handvoll | Cinderline                                                           |
+| Buff         | [[The Drylands/Equipment/Consumables/Potion of Hope]]                                                                          | 2 Handvoll | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])              |
+| Buff         | [[The Drylands/Equipment/Consumables/Potion of Invisibility]]                                                                  | 4 Handvoll | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])              |
+| Buff         | [[The Drylands/Equipment/Consumables/Major Booster]]                                                                           | 4 Handvoll | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])              |
+| Buff         | 4x [[The Drylands/Equipment/Consumables/Imported Cigarillos]]                                                                  | 6 Handvoll | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])              |
