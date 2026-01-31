@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-13T15:11:54.805+02:00","modified":"2025-08-13T20:52:29.461+02:00","cssclasses":""}
+{"publish":true,"created":"2025-08-13T15:11:54.805+02:00","modified":"2026-01-31T23:31:17.343+01:00","cssclasses":""}
 ---
 
 
@@ -25,3 +25,12 @@ Ist die Reichweite der Waffe zu kurz (oder sie ist anderweitig nicht für ein Du
 Duelle werden nach einem Ehrenkodex abgehalten, das heißt keine externe Unterstützung, keine magischen Hilfsmittel und keine Leistungssteigernden Substanzen.
 Natürlich halten sich nicht alle daran und es gab schon den ein oder anderen ausgeklügelten Plan, um die eigenen Chancen zu verbessern.
 Sollte dies jedoch bemerkt werden, ist einem der Spott der Drylands sicher. Dies kann weitreichende Folgen haben, wie Verlust des Ansehens, abstempeln als Ehrenlos, Ablehnung von Duellen und natürlich ein Nachteil im Duell selber.
+
+# WIP
+
+- The first to deal severe damage or defeat their opponent wins the duel
+- The GM sets aside their Fear Pool and starts with 1 Fear. Any remaining Fear at the end of the duel is discarded
+- The PC and adversary make an Agility Reaction Roll to determine who acts first
+- The PC can't use Armor Slots
+- When the last HP is marked, the target only dies if there is intent to kill
+- **Deadly Fokus:** A dueller can make a Stress and make an Instinct Roll against the Environment's Difficulty. On a success, they gain a Focus token/ A dueller can spend one or more Focus tokens to gain a +5 bonus to their damage roll during the duel when they succeed on an attack
