@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-10T00:50:31.009+02:00","modified":"2026-01-12T19:15:05.897+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T00:50:31.009+02:00","modified":"2026-04-09T16:43:45.107+02:00","cssclasses":""}
 ---
 
 # Custom Essentia Rifle
@@ -16,7 +16,7 @@
 
 **Burden:** Two-Handed
 
-**Feature: Reload (4):*** See [Reloading](app://obsidian.md/Equipment%20der%20Drylands#Reloading)  
+**Feature: Reload (4):*** See [[The Drylands/Wissenswertes/Mechanics/Equipment der Drylands#Reloading\|Reloading]]  
 **Essentia Scope:** +1 auf Spellcasting Rolls
 **Essentia Powered:** 1 Cell per Long rest
 
