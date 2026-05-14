@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-27T18:06:09.044+01:00","modified":"2026-01-27T18:07:51.095+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-27T18:06:09.044+01:00","modified":"2026-05-06T00:30:11.604+02:00","cssclasses":""}
 ---
 
 Würfel 1d4 und bestimme den Effekt
@@ -11,4 +11,4 @@ Würfel 1d4 und bestimme den Effekt
 | 3    | Clear 1d4 Stress      |
 | 4    | Clear 1d4 HP & Stress |
 
-*Heilt, manchmal, oder entspannt, oder beider, oder keins von beiden.*
+*Heilt, manchmal, oder entspannt, oder beides, oder keins von beiden.*
