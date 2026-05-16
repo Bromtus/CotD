@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-10T15:06:05.245+01:00","modified":"2026-01-15T22:56:03.317+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-10T15:06:05.245+01:00","modified":"2026-05-14T22:59:34.977+02:00","cssclasses":""}
 ---
 
 
@@ -32,7 +32,7 @@ Diese Legende wird nur von wenigen Bergleuten geglaubt und oft dient sie nur als
 Neben der Prophezeiung der alten Götter gibt es viele Geschichten über die anderen alten Götter, die die Drylands mit geschaffen haben. 
 ### Die Sage vom Auge des Sturms
 Diese Sage wird Kindern oft von ihren Eltern während besonders heftigen Sandstürmen erzählt.
->Früher, als die alten Götter noch herrschten, waren die Winde noch nicht wild und gefährlich. Verlorene Wanderer wurden vom Auge des Sturm sicher in ihr Ziel geleitet selbst wenn sie es selbst gar nicht kannten. Während peitschende Winde um sie rum alle Biester abgehalten haben, wurde ihnen kein Haar gekrümmt, denn sie liefen steht im Auge des Sturm. Doch als die alten Götter vom Himmel fielen wurden die Winde gefährlich und die Leute mussten sich vor ihnen verstecken. Manche Wanderer glauben aber noch heute, dass die Staubgeister, die oft in Rudeln von Feldvorhängen herunterschauen, einem den Schutz des Auges vor dem nächsten Sturm verleihen.
+>Früher, als die alten Götter noch herrschten, waren die Winde noch nicht wild und gefährlich. Verlorene Wanderer wurden vom Auge des Sturm sicher in ihr Ziel geleitet selbst wenn sie es selbst gar nicht kannten. Während peitschende Winde um sie rum alle Biester abgehalten haben, wurde ihnen kein Haar gekrümmt, denn sie liefen steht im Auge des Sturm. Doch als die alten Götter vom Himmel fielen wurden die Winde gefährlich und die Leute mussten sich vor ihnen verstecken. Manche Wanderer glauben aber noch heute, dass die Staubgeister, die oft in Rudeln von Felsvorhängen herunterschauen, einem den Schutz des Auges vor dem nächsten Sturm verleihen.
 ### Das Limerick von der Dritten Hand
 Die Dritte Hand ist der Name des alten Gottes des Unglücks, einer der wenigen Überlieferten alten Götter. Ihm schreiben viele Spieler\*innen  noch heute ihre Pechsträhnen zu und sein Gedicht hallt oft durch die Bleikeller der Drylands, die geheimen Glückspielräumer unter Saloons, in denen nur das Gesetz der Karten gilt.
 >Fünf Karten hat er in den Händen
