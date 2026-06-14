@@ -1,7 +1,9 @@
 ---
-{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2026-05-17T00:05:42.413+02:00","cssclasses":""}
+{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2026-05-19T00:37:39.914+02:00","cssclasses":""}
 ---
 
+- 19.5.26 - Changed: [[The Drylands/Major Outposts/Wyllin's Gulch#Casino Golden River]]
+---
 - 16.5.26 - Added: [[The Drylands/Wissenswertes/Lore/Die Neuen Götter]]
 - 16.5.26 - Added: [[The Drylands/Wissenswertes/Lore/Die Alten Göttern]]
 - 16.5.26 - Added: [[The Drylands/Major Outposts/Defiance]]
