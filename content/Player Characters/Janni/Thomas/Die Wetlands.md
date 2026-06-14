@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-30T15:30:59.038+01:00","modified":"2026-01-05T23:34:26.809+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-30T22:43:52.061+01:00","modified":"2026-01-05T23:34:26.809+01:00","cssclasses":""}
 ---
 
 Einige Meilen südlich von [[The Drylands/Minor Outposts/Plentyful]] befindet sich ein Gebirgsrand mit unnatürlich feuchtem Sandboden und eine Häufung von Wüstenpflanzen. Folgt man diesen Vegetationsstreifen aufmerksam lassen sich Risse im Gebirge erkennen, kaum einen Meter breit, aus denen angenehm frische Luft strömt.

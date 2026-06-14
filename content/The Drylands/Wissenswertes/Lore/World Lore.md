@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T17:24:20.001+01:00","modified":"2026-03-10T17:24:20.001+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-24T11:38:18.239+01:00","modified":"2026-03-10T17:24:20.001+01:00","cssclasses":""}
 ---
 
 # Cosmologie

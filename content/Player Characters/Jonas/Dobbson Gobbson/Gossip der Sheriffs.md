@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-09T17:45:56.054+01:00","modified":"2026-01-09T18:53:03.666+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-17T12:50:52.634+01:00","modified":"2026-01-09T18:53:03.666+01:00","cssclasses":""}
 ---
 
 # [[The Drylands/Major Outposts/Wyllin's Gulch]]

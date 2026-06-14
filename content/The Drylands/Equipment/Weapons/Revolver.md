@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-10T00:05:21.987+02:00","modified":"2025-10-10T00:17:29.842+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T19:22:32.430+02:00","modified":"2025-10-10T00:17:29.842+02:00","cssclasses":""}
 ---
 
 # Revolver

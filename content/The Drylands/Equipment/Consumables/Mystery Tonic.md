@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-27T18:06:09.044+01:00","modified":"2026-05-06T00:30:11.604+02:00","cssclasses":""}
+{"publish":true,"created":"2026-01-31T18:20:50.913+01:00","modified":"2026-05-06T00:30:11.604+02:00","cssclasses":""}
 ---
 
 Würfel 1d4 und bestimme den Effekt

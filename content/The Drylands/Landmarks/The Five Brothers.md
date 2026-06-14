@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Five Brothers Fünf Brüder five Brothers fünf Brüder Brothers Brüder","created":"2026-01-18T00:43:34.639+01:00","modified":"2026-01-27T17:40:24.461+01:00","cssclasses":""}
+{"publish":true,"aliases":"Five Brothers Fünf Brüder five Brothers fünf Brüder Brothers Brüder","created":"2026-01-18T10:53:23.747+01:00","modified":"2026-01-27T17:40:24.461+01:00","cssclasses":""}
 ---
 
 Die Five Brothers sind eine riesige Felsformation im Osten der [[The Drylands/Wissenswertes/Lore/Drylands]] zwischen [[The Drylands/Major Outposts/The Cinderline\|Cinderline]] und [[The Drylands/Major Outposts/Pryor]]. Sie bestehen aus fünf Granitsäulen von denen die Größte mehrere hundert Meter über die sonst flache Landschaft emporragt. Die Brothers dienten früher als Navigationshilfe, da sie bei klarem Wetter in den östlichen Flachlanden kilometerweit gesehen werden können.

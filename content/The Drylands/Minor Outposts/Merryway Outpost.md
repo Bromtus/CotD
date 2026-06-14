@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Merryway","created":"2025-10-01T19:46:53.513+02:00","modified":"2025-10-01T19:46:53.870+02:00","cssclasses":""}
+{"publish":true,"aliases":"Merryway","created":"2025-08-14T00:38:13.475+02:00","modified":"2025-10-01T19:46:53.870+02:00","cssclasses":""}
 ---
 
 Merryway Outpost ist eine kleine Befestigung einige Meilen östliche von [[The Drylands/Major Outposts/Wyllin's Gulch]]. Die etwa 15 Gebäude beherbergen etwa gleich viele Bewohner\*innen und stellen einen beliebten Ort zum Auffüllen der Wasserschläuche, Vorratsbeutel und Essentia-zellen da.

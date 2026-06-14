@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-13T15:11:54.869+02:00","modified":"2026-05-06T00:28:18.532+02:00","cssclasses":""}
+{"publish":true,"created":"2025-11-24T11:38:18.439+01:00","modified":"2026-06-14T16:41:23.170+02:00","cssclasses":""}
 ---
 
 
@@ -13,7 +13,7 @@ Medizin ist in den Dryland eine selten und teure Ware. Fast alles, was nicht von
 - Das Flagschiffprodukt von [[The Drylands/Corporation/Ludwig Pharmazeutika]], ein allround Schmerzmittel und Wundheilungsbeschleuniger. 
 - War nach seiner Einführung unglaublich beliebt, um die Schmerzen des Alltags zu vergessen, heute gibt es unzählige Kopien und fragwürdige Replikate
 - Die weiße Flüssigkeit hat einen angenehmen Kirschgeschmack, was definitiv zur Beliebtheit unter Kindern beigetragen hat
-- **Clear 1d4 Health**
+- **Clear 1d4+1 Health**
 # Hasenpfote
 - Wurzelstock des *Gemeinen Schwarzen Wüstenbusches*, wird getrocknet, gemahlen und geraucht
 - Wird von vielen hergestellt und verkauft, aber Reisende haben oft einen selbstgemachten Vorrat dabei. Hat viele Namen in den Drylands
