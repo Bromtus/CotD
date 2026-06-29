@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-17T00:16:13.045+02:00","modified":"2026-05-19T00:37:39.914+02:00","cssclasses":""}
+{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2026-05-19T00:37:39.914+02:00","cssclasses":""}
 ---
 
 - 19.5.26 - Changed: [[The Drylands/Major Outposts/Wyllin's Gulch#Casino Golden River]]

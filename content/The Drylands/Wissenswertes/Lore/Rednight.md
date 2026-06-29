@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Rednights","created":"2025-11-24T11:38:18.219+01:00","modified":"2025-11-23T17:35:19.135+01:00","cssclasses":""}
+{"publish":true,"aliases":"Rednights","created":"2025-11-23T17:13:07.428+01:00","modified":"2025-11-23T17:35:19.135+01:00","cssclasses":""}
 ---
 
 Die Rednight ereignen sich seit Menschengedenken jeden Monat zum 29. Tag als Sonnenfinsternis/Neumond, bei dem der Planet Daear den Schatten des Gasriesen Enaid durchläuft. Die großen Hauptstädte in der Mitte des Kontinents sind an jenen Tagen in völlige Dunkelheit gehüllt und betrachten ihn als Feiertag, Gebiete am Rand des Kontinents, wie die Drylands, werden jedoch im rot-orangenen Licht gebadet. Viele Glaubensgruppen schreiben diesem Tag eine Bedeutung zu, die meisten Bewohner\*innen tun jedoch als wäre es ein Tag wie jeder andere auch.

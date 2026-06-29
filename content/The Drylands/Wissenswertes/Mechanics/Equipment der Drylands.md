@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-24T11:38:18.259+01:00","modified":"2026-01-27T19:13:59.317+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-09T23:35:05.202+02:00","modified":"2026-06-29T22:22:52.644+02:00","cssclasses":""}
 ---
 
 Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[The Drylands/Wissenswertes/Mechanics/Equipment der Drylands#Equipment\|unten]].
@@ -54,7 +54,7 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | Defense        | [[The Drylands/Equipment/Items/Cassidy's Calming Concoction]]   | 1 Sack     | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
 | Defense        | [[The Drylands/Equipment/Items/Lennie's Hearty Health-Up]]      | 1.2 Sack   | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
 | Utility        | [[The Drylands/Equipment/Items/Adlergläser]]                    | 4 Handvoll | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Utility        | [[The Drylands/Equipment/Items/Inmotisol]]                      | 8 Handvoll | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Utility        | [[The Drylands/Equipment/Items/Inmotisol]]                      | 1.4 Sack   | Cinderline ([[The Drylands/Shops and Businesses/Apotheke zum Kotzenden Pferd\|Apotheke]])             |
 | Utility        | [[The Drylands/Equipment/Items/Flickerscarf]]                   | 1 Sack     | Wyllin's Gulch([[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
 ## Consumables
 | Art          | Name                                                                                        | Kosten     | Erhältlich bei                                                       |

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-31T18:20:50.663+01:00","modified":"2026-01-27T18:04:11.410+01:00","cssclasses":""}
+{"publish":true,"created":"2026-01-27T17:52:39.079+01:00","modified":"2026-01-27T18:04:11.410+01:00","cssclasses":""}
 ---
 
 If you smoke one, until the End of the Scene, when you are attacked, roll your weapons damage dice. If any of your dice match the attackers damage dice, cancel matching pairs.

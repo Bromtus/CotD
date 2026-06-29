@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-10T19:22:32.505+02:00","modified":"2025-10-10T00:30:34.031+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T00:29:37.398+02:00","modified":"2025-10-10T00:30:34.031+02:00","cssclasses":""}
 ---
 
 # DERINGER

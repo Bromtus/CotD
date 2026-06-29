@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-10T19:22:32.394+02:00","modified":"2025-10-10T00:20:52.353+02:00","cssclasses":""}
+{"publish":true,"created":"2025-10-10T00:18:56.531+02:00","modified":"2025-10-10T00:20:52.353+02:00","cssclasses":""}
 ---
 
 # SLUG-GUN
