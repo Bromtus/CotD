@@ -1,7 +1,9 @@
 ---
-{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2026-07-04T01:01:45.412+02:00","cssclasses":""}
+{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2026-07-09T22:51:30.623+02:00","cssclasses":""}
 ---
 
+- 9.7.26 - Changed: [[The Drylands/Major Outposts/Havalaugh]]
+---
 - 4.7.26 - Changed: [[The Drylands/Wissenswertes/Mechanics/Duel]] (Update auf neue Regeln)
 ---
 - 19.5.26 - Changed: [[The Drylands/Major Outposts/Wyllin's Gulch#Casino Golden River]]
