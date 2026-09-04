@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-10T00:35:13.044+02:00","modified":"2025-10-10T01:16:40.826+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:35:13.044Z
+modified: 2025-10-09T23:16:40.826Z
 ---
-
 
 # SEWN IN IRON PLATE
 
@@ -13,4 +14,4 @@
 | 4    | 15              | 40              | 7          |
 **Feature:** **Heavy**: -1 auf Evasion
 
-*Armor *
+\*Armor \*

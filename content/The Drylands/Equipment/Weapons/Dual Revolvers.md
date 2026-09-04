@@ -1,5 +1,7 @@
 ---
-{"publish":true,"created":"2025-10-10T00:20:12.532+02:00","modified":"2025-10-10T00:21:52.478+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:20:12.532Z
+modified: 2025-10-09T22:21:52.478Z
 ---
 
 # DUAL REVOLVERS
@@ -15,7 +17,7 @@
 | 4    | d6 + 10 phy |
 **Burden:** Two-Handed
 
-**Feature: Reload (6):** See [[The Drylands/Wissenswertes/Equipment der Drylands#Reloading\|Reloading]]
+**Feature: Reload (6):** See [[Equipment der Drylands#Reloading|Reloading]]
 **Quickshot:** Wenn du einen Angriff machst, gib 1 Stress und 1 Munitionstoken aus, um auf eine weitere Kreatur in Reichweite zu zielen (kann dieselbe sein)
 
-*Primary Weapon*
+_Primary Weapon_

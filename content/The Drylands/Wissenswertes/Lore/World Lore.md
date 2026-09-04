@@ -1,13 +1,17 @@
 ---
-{"publish":true,"created":"2026-03-10T17:24:20.001+01:00","modified":"2026-03-10T17:24:20.001+01:00","cssclasses":""}
+publish: true
+created: 2026-03-10T16:24:20.001Z
+modified: 2026-03-10T16:24:20.001Z
 ---
 
 # Cosmologie
 
 Die Drylands befinden sich im Nordwesten des großen Kontinents Pan, welcher die größte zusammenhängende Landmasse auf dem Planeten Daear ist, welcher ein Mond des Gasriesen Enaid ist, welcher um den Stern Cynnes kreist.
-Einmal im Monat, alle 29 Tage, durchläuft Daear den Schatten von Enaid, wobei Daear ausschließlich rötlich-orangenes Licht um Enaid erreicht und den Mond für einen Tag in ein tiefes Zwielicht hüllt. In den Drylands sind diese Tage als [[The Drylands/Wissenswertes/Lore/Rednight\|Rednights]] bekannt.
+Einmal im Monat, alle 29 Tage, durchläuft Daear den Schatten von Enaid, wobei Daear ausschließlich rötlich-orangenes Licht um Enaid erreicht und den Mond für einen Tag in ein tiefes Zwielicht hüllt. In den Drylands sind diese Tage als [[Rednight|Rednights]] bekannt.
+
 # Kalender
-Das Jahr in der Welt der Drylands wird unterteilt in 10 Monate à 4 Wochen mit je 7 Tagen, inklusive einem extra Tag am Ende jedes Monats, den [[The Drylands/Wissenswertes/Lore/Rednight\|Rednights]]. Ein Jahr besteht also insgesamt aus 10\*4\*7+10=290 Tagen.
+
+Das Jahr in der Welt der Drylands wird unterteilt in 10 Monate à 4 Wochen mit je 7 Tagen, inklusive einem extra Tag am Ende jedes Monats, den [[Rednight|Rednights]]. Ein Jahr besteht also insgesamt aus 10\*4\*7+10=290 Tagen.
 
 | So  | Mo  | Di  | Mi  | Do  | Fr  | Sa  | Re  |
 | --- | --- | --- | --- | --- | --- | --- | --- |

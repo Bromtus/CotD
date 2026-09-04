@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-10T00:33:18.647+02:00","modified":"2025-10-30T15:13:41.491+01:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:33:18.647Z
+modified: 2025-10-30T14:13:41.491Z
 ---
-
 
 # GAMBESON ARMOR
 
@@ -13,4 +14,4 @@
 | 4    | 11              | 32              | 6          |
 **Feature:** **Flexible**: +1 auf Evasion
 
-*Armor*
+_Armor_

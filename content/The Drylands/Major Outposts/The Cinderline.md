@@ -1,24 +1,34 @@
 ---
-{"publish":true,"aliases":"Cinderline die Cinderline","created":"2026-01-26T23:36:58.275+01:00","modified":"2026-01-27T19:14:10.312+01:00","cssclasses":""}
+publish: true
+aliases:
+  - Cinderline
+  - die Cinderline
+created: 2026-01-26T22:36:58.275Z
+modified: 2026-01-27T18:14:10.312Z
 ---
 
-
 **Die Essentiawäscherstadt**
-***
-Cinderline ist eine mittelgroße Stadt im Süd-Osten der [[The Drylands/Wissenswertes/Lore/Drylands\|Drylands]] an Ufer des Flusses [[Tumma]]. Als die Stadt vor etwa 25 Jahren gegründet wurde schwammen reichlich [[The Drylands/Wissenswertes/Lore/Essentia]] Brocken im Fluss, die mit Leichtigkeit herausgefischt werden konnten. Jedoch hat niemand seit 5 Jahren auch nur ein bisschen Essentia im Fluss finden können.
+
+---
+
+Cinderline ist eine mittelgroße Stadt im Süd-Osten der [[Drylands|Drylands]] an Ufer des Flusses [[Tumma]]. Als die Stadt vor etwa 25 Jahren gegründet wurde schwammen reichlich [[Essentia]] Brocken im Fluss, die mit Leichtigkeit herausgefischt werden konnten. Jedoch hat niemand seit 5 Jahren auch nur ein bisschen Essentia im Fluss finden können.
 Doch besteht die Cinderline fort, denn es ist einer der weniger Orte in den Drylands mit fließendem trinkbaren Wasser in einem weiten Umkreis.
+
 # Die Schwarzen Sande
+
 Der Boden um den Fluss herum ist mit tiefschwarz gefärbtem Sand bedeckt, so auch der Boden der Stadt. Zunächst ging man davon aus, der Sand sei durch Feuer oder extreme Sonnenhitze verbrannt worden und gab der Stadt den Namen Cinderline.
 Die Suche nach mehr Essentia hat die Prospektor\*innen jedoch immer weiter Flussabwärts getrieben, wo sie entdeckt haben, dass es wohl das Wasser der Flusses ist, was den Sand schwarz färbt. Je weiter man im Flusslauf kommt, desto weniger schwarz ist der Sand, wobei er Flussaufwärts immer dunkler wird.
-An der Quelle ist das Wasser selber fast schwarz und trägt vermutlich besondere Mineralien aus dem Erdreich nach oben. Das Unternehmen [[The Drylands/Corporation/Ludwig Pharmazeutika]] hat vor etwa 25 Jahren seltene Heilungseigenschaften dieser Mineralien festgestellt und fabriziert seit dem in Cinderline einen Großteil seiner Medikamente. Dafür wurde das Gebiet um die Quelle des [[Tumma]] gekauft und für Außenstehende gesperrt. Teil dieses Deals war jedoch, dass das Wasser flussabwärts weiterhin trinkbar bleiben muss. Vor der Sperrung durch Ludwig Pharmazeutika haben Bewohner\*innen von Cinderline aus dem Wasser eigene Tinkturen hergestellt, diese verlieren jedoch stetig an Wirkungskraft.
+An der Quelle ist das Wasser selber fast schwarz und trägt vermutlich besondere Mineralien aus dem Erdreich nach oben. Das Unternehmen [[Ludwig Pharmazeutika]] hat vor etwa 25 Jahren seltene Heilungseigenschaften dieser Mineralien festgestellt und fabriziert seit dem in Cinderline einen Großteil seiner Medikamente. Dafür wurde das Gebiet um die Quelle des [[Tumma]] gekauft und für Außenstehende gesperrt. Teil dieses Deals war jedoch, dass das Wasser flussabwärts weiterhin trinkbar bleiben muss. Vor der Sperrung durch Ludwig Pharmazeutika haben Bewohner\*innen von Cinderline aus dem Wasser eigene Tinkturen hergestellt, diese verlieren jedoch stetig an Wirkungskraft.
+
 # Shop
+
 | CONSUMABLES            | Effekt                                                                                                                                                                                                                                                                                                                                                                | Preis | Wo                           |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------- |
 | 2x Nara                | 1d4+1 HP                                                                                                                                                                                                                                                                                                                                                              | 3     | Überall                      |
 | Nara 800er             | 1d4+2 HP                                                                                                                                                                                                                                                                                                                                                              | 3     |                              |
 | 3x Booster Potions     | (+1 auf einen Roll)                                                                                                                                                                                                                                                                                                                                                   | 1     | Überall                      |
 | 2x Karottensaft        | (Darkvision bis nächste Rest)                                                                                                                                                                                                                                                                                                                                         | 1     | Überall                      |
-| Mystery Tonic          | (1d4: 1;Mark 1 Stress - 2;clear 1d4 HP - 3;clear 1d4 Stress - 4;clear 1d4 HP&Stress)                                                                                                                                                                                                                                                                                  | 1     | Seitenstraße                 |
+| Mystery Tonic          | (1d4: 1;Mark 1 Stress - 2;clear 1d4 HP - 3;clear 1d4 Stress - 4;clear 1d4 HP\&Stress)                                                                                                                                                                                                                                                                                  | 1     | Seitenstraße                 |
 | Potion of Invisibility | You become _Invisible_. An _Invisible_ creature can’t be seen except through magical means and attack rolls against them are made with disadvantage. Place a number of tokens on this card equal to your Tier. When the _Invisible_ creature takes an action, spend a token from this card. After the action that spends the last token is resolved, the effect ends. | 4     | Apotheke zum kotzenden Pferd |
 | Potion of Hope         | Till your next rest, when the GM gains a Fear, you can mark a stress to gain a Hope                                                                                                                                                                                                                                                                                   | 2     | Apotheke zum kotzenden Pferd |
 | Major booster          | +1 auf stat bis nächste Long Rest                                                                                                                                                                                                                                                                                                                                     | 4     | Apotheke zum kotzenden Pferd |

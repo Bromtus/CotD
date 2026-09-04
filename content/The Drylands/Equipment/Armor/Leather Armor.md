@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-10T00:34:11.256+02:00","modified":"2025-10-10T01:16:35.937+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:34:11.256Z
+modified: 2025-10-09T23:16:35.937Z
 ---
-
 
 # LEATHER ARMOR
 
@@ -11,4 +12,4 @@
 | 2    | 9               | 20              | 4          |
 | 3    | 11              | 27              | 5          |
 | 4    | 13              | 36              | 6          |
-*Armor *
+\*Armor \*

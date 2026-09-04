@@ -1,65 +1,107 @@
 ---
-{"publish":true,"created":"2025-11-04T22:49:42.427+01:00","modified":"2026-07-09T22:51:30.623+02:00","cssclasses":""}
+publish: true
+created: 2025-11-04T21:49:42.427Z
+modified: 2026-07-09T20:51:30.623Z
 ---
 
-- 9.7.26 - Changed: [[The Drylands/Major Outposts/Havalaugh]]
+- 9.7.26 - Changed: [[Havalaugh]]
+
 ---
-- 4.7.26 - Changed: [[The Drylands/Wissenswertes/Mechanics/Duel]] (Update auf neue Regeln)
+
+- 4.7.26 - Changed: [[Duel]] (Update auf neue Regeln)
+
 ---
-- 19.5.26 - Changed: [[The Drylands/Major Outposts/Wyllin's Gulch#Casino Golden River]]
+
+- 19.5.26 - Changed: [[Wyllin's Gulch#Casino Golden River]]
+
 ---
-- 16.5.26 - Added: [[The Drylands/Wissenswertes/Lore/Die Neuen Götter]]
-- 16.5.26 - Added: [[The Drylands/Wissenswertes/Lore/Die Alten Göttern]]
-- 16.5.26 - Added: [[The Drylands/Major Outposts/Defiance]]
+
+- 16.5.26 - Added: [[Die Neuen Götter]]
+- 16.5.26 - Added: [[Die Alten Göttern]]
+- 16.5.26 - Added: [[Defiance]]
+
 ---
-- 14.5.26 - Added: [[The Drylands/Wissenswertes/Lore/Ancestries der Drylands]]
+
+- 14.5.26 - Added: [[Ancestries der Drylands]]
+
 ---
-- 27.1.26 - Changed: [[The Drylands/Wissenswertes/Mechanics/Equipment der Drylands]]
-- 27.1.26 - Added: [[The Drylands/Landmarks/The Five Brothers]]
+
+- 27.1.26 - Changed: [[Equipment der Drylands]]
+- 27.1.26 - Added: [[The Five Brothers]]
+
 ---
-- 10.1.26 - Added: [[The Drylands/Wissenswertes/Mechanics/Berittener Kampf]]
-***
-- 9.12.25 - Added: [[The Drylands/Landmarks/Wetlands\|The Wetlands]]
-- 9.12.25 - Changed: [[The Drylands/Minor Outposts/Plentyful]]
-***
-- 23.11.25 - Added: [[The Drylands/Wissenswertes/Lore/World Lore]]
-- 23.11.25 - Changed: [[The Drylands/Wissenswertes/Lore/Sagen und Legenden]]
-***
-- 27.10.25 - Added: [[The Drylands/Outlaw Gangs/Tumbleweed Raiders]]
-- 27.10.25 - Changed: [[The Drylands/Shops and Businesses/The Pissing Ox]]
-***
-- 9.10.25 - Added: [[The Drylands/Shops and Businesses/Zu Schusswaren & Auf Rüstwaren]]
-- 9.10.25 - Changed: [[The Drylands/Wissenswertes/Mechanics/Equipment der Drylands]]
+
+- 10.1.26 - Added: [[Berittener Kampf]]
+
+---
+
+- 9.12.25 - Added: [[Wetlands|The Wetlands]]
+- 9.12.25 - Changed: [[Plentyful]]
+
+---
+
+- 23.11.25 - Added: [[World Lore]]
+- 23.11.25 - Changed: [[Sagen und Legenden]]
+
+---
+
+- 27.10.25 - Added: [[Tumbleweed Raiders]]
+- 27.10.25 - Changed: [[The Pissing Ox]]
+
+---
+
+- 9.10.25 - Added: [[Zu Schusswaren & Auf Rüstwaren]]
+- 9.10.25 - Changed: [[Equipment der Drylands]]
 - 9.10.25 - Added: [[Equipment/]]
-***
-- 5.10.25 - Added: [[The Drylands/Shops and Businesses/The Pissing Ox]]
-***
-- 2.10.25 - Added: [[The Drylands/Corporation/Hammerhead Medical Company]]
-- 2.10.25 - Added: [[The Drylands/Minor Outposts/Plentyful]]
-- 2.10.25 - Added: [[The Drylands/Minor Outposts/Timber's Gorge]]
-***
-- 15.9.25 - Added: [[The Drylands/Minor Outposts/Merryway Outpost]]
-***
+
+---
+
+- 5.10.25 - Added: [[The Pissing Ox]]
+
+---
+
+- 2.10.25 - Added: [[Hammerhead Medical Company]]
+- 2.10.25 - Added: [[Plentyful]]
+- 2.10.25 - Added: [[Timber's Gorge]]
+
+---
+
+- 15.9.25 - Added: [[Merryway Outpost]]
+
+---
+
 - 10.9.25 - Adjusted Revolver Damage (Official Errata)
-***
-- 9.9.25 - Added: [[The Drylands/Corporation/Smudgehill Mining Group]]
-- 9.9.25 - Added: [[The Drylands/Landmarks/Takraf Mine]]
-- 9.9.25 - Added: [[The Drylands/Outlaw Gangs/Harlan Family]]
-- 9.9.25 - Added:[[The Drylands/Personen/Trace Harlan]]
-***
-- 27.8.25 - Added: [[The Drylands/Corporation/Ludwig Pharmazeutika]]
-- 27.8.25 - Added: [[The Drylands/Landmarks/Godfall Mountain]]
-- 27.8.25 - Added: [[The Drylands/Major Outposts/The Cinderline]]
-- 27.8.25 - Changed: [[The Drylands/Corporation/Trans-Western Railway Company]]
+
 ---
-- 24.8.25 - Added: [[The Story/Ouverture]]
+
+- 9.9.25 - Added: [[Smudgehill Mining Group]]
+- 9.9.25 - Added: [[Takraf Mine]]
+- 9.9.25 - Added: [[Harlan Family]]
+- 9.9.25 - Added:[[Trace Harlan]]
+
 ---
-- 23.8.25 - Added: [[The Drylands/Major Outposts/Pryor]]
-- 23.8.25 - Added: [[The Drylands/Major Outposts/Havalaugh]]
-- 23.8.25 - Changed: [[The Drylands/Wissenswertes/Lore/Sagen und Legenden]]
+
+- 27.8.25 - Added: [[Ludwig Pharmazeutika]]
+- 27.8.25 - Added: [[Godfall Mountain]]
+- 27.8.25 - Added: [[The Cinderline]]
+- 27.8.25 - Changed: [[Trans-Western Railway Company]]
+
 ---
-- 17.8.25 - Added: [[The Drylands/Major Outposts/Der Eisenkessel]]
-- 17.8.25 - Added: [[The Drylands/Wissenswertes/Lore/Essentia]]
-- 17.8.25 - Changed: [[The Drylands/Corporation/Iron Tusk Corp.]]
+
+- 24.8.25 - Added: [[Ouverture]]
+
 ---
+
+- 23.8.25 - Added: [[Pryor]]
+- 23.8.25 - Added: [[Havalaugh]]
+- 23.8.25 - Changed: [[Sagen und Legenden]]
+
+---
+
+- 17.8.25 - Added: [[Der Eisenkessel]]
+- 17.8.25 - Added: [[Essentia]]
+- 17.8.25 - Changed: [[Iron Tusk Corp.]]
+
+---
+
 - 16.8.25 - Added: [[Changelog]]

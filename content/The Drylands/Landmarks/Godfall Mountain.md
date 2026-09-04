@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-08-27T14:43:09.823+02:00","modified":"2025-08-27T14:43:09.934+02:00","cssclasses":""}
+publish: true
+created: 2025-08-27T12:43:09.823Z
+modified: 2025-08-27T12:43:09.934Z
 ---
 
-
-Das gigantische Mesagebirge im Zentrum der [[The Drylands/Wissenswertes/Drylands]], benannt nach der [[The Drylands/Wissenswertes/Sagen und Legenden#Die Prophezeiung des vergessenen Gotts\|Sage über die alten Götter]]. Die unwirtliche und feindselige Landschaft hat bis jetzt alle Siedlungsversuche verhindert. Auch wurde hier bis jetzt bei allen Untersuchungen kein bisschen [[The Drylands/Wissenswertes/Essentia]] gefunden, manche Exzenrtiker\*innen vermuten jedoch tief unter dem Gebirge ein riesiges Essentia Vorkommen.
+Das gigantische Mesagebirge im Zentrum der [[Drylands]], benannt nach der [[Sagen und Legenden#Die Prophezeiung des vergessenen Gotts|Sage über die alten Götter]]. Die unwirtliche und feindselige Landschaft hat bis jetzt alle Siedlungsversuche verhindert. Auch wurde hier bis jetzt bei allen Untersuchungen kein bisschen [[Essentia]] gefunden, manche Exzenrtiker\*innen vermuten jedoch tief unter dem Gebirge ein riesiges Essentia Vorkommen.
 Der zentrale Berg ist der höchste Punkt der Drylands und wurde noch nie erfolgreich erklommen.

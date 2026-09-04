@@ -1,8 +1,12 @@
 ---
-{"publish":true,"created":"2025-08-14T00:11:50.219+02:00","modified":"2026-05-17T00:13:54.070+02:00","cssclasses":""}
+publish: true
+created: 2025-08-13T22:11:50.219Z
+modified: 2026-05-16T22:13:54.070Z
 ---
 
 **Der Kanonenfelsen**
-***
-Gelegen auf einer Mesa im Westen der [[The Drylands/Wissenswertes/Lore/Drylands\|Drylands]] soll dies ein altes Diebesversteckt sein, dass sich zu einer Siedlung aufgeweitet hat. Durch die Steilwände der Mesa und der Isolation ist die Stadt eine sichere Bastion für alle ihre Bewohner, nicht zuletzt durch die Reihen an Artillerie, die jedes Fleckchen Erde um die Stadt durchlöchern kann.
+
+---
+
+Gelegen auf einer Mesa im Westen der [[Drylands|Drylands]] soll dies ein altes Diebesversteckt sein, dass sich zu einer Siedlung aufgeweitet hat. Durch die Steilwände der Mesa und der Isolation ist die Stadt eine sichere Bastion für alle ihre Bewohner, nicht zuletzt durch die Reihen an Artillerie, die jedes Fleckchen Erde um die Stadt durchlöchern kann.
 Heutzutage ist es fast unmöglich ohne connections oder einen sehr guten Grund in den Outpost zu kommen.

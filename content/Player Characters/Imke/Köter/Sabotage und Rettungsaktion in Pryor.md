@@ -1,12 +1,14 @@
 ---
-{"publish":true,"created":"2025-09-05T01:02:47.139+02:00","modified":"2025-09-08T22:01:39.952+02:00","cssclasses":""}
+publish: true
+created: 2025-09-04T23:02:47.139Z
+modified: 2025-09-08T20:01:39.952Z
 ---
 
-Jimmy erhielt einen Auftrag von der [[The Drylands/Corporation/Smudgehill Mining Group]], er und ein paar andere Outlaws die sich geraden in [[The Drylands/Major Outposts/Wyllin's Gulch]] befinden sollen eine Lieferung Essentia-Rafinerieteilen und Adamant-Bohrern von dem [[The Drylands/Major Outposts/Der Eisenkessel\|Eisenkessel]] nach [[The Drylands/Major Outposts/Pryor]] zerstören. So soll verhindert werden, dass Pryor unabhängiger von den Essentia Lieferungen von SMG wird und ihr Essentia vielleicht sogar lieber aus dem Eisenkessel beziehen. 
+Jimmy erhielt einen Auftrag von der [[Smudgehill Mining Group]], er und ein paar andere Outlaws die sich geraden in [[Wyllin's Gulch]] befinden sollen eine Lieferung Essentia-Rafinerieteilen und Adamant-Bohrern von dem [[Der Eisenkessel|Eisenkessel]] nach [[Pryor]] zerstören. So soll verhindert werden, dass Pryor unabhängiger von den Essentia Lieferungen von SMG wird und ihr Essentia vielleicht sogar lieber aus dem Eisenkessel beziehen.
 
 Die 9 Outlaws, die ausgesucht wurden sollen die Lieferung, die sich momentan in einem Lagerhaus befindet, mit 60kg Dynamit unbrauchbar machen. Alle Outlaws kannten sich untereinander nur mit Codenamen, die von der Mining Group verteilt wurden.
 
-Der Smudgehill Mining Group sind die ausgewählten Outlaws jedoch schon länger ein Dorn im Auge und so wollen sie zwei Fliegen mit einer Klappe treffen; Die Outlaws bekommen manipuliertes instabiles Dynamit und werden so unschädlich gemacht und die Mining Group streicht ein fettes Kopfgeld für alle erledigten Outlaws ein. Das Lagerhaus enthielt zwar nie die benannten Raffinerie und Bohrteile, es gehört jedoch der [[The Drylands/Corporation/Iron Tusk Corp.]], ist also akzeptabler Kollateralschaden.
+Der Smudgehill Mining Group sind die ausgewählten Outlaws jedoch schon länger ein Dorn im Auge und so wollen sie zwei Fliegen mit einer Klappe treffen; Die Outlaws bekommen manipuliertes instabiles Dynamit und werden so unschädlich gemacht und die Mining Group streicht ein fettes Kopfgeld für alle erledigten Outlaws ein. Das Lagerhaus enthielt zwar nie die benannten Raffinerie und Bohrteile, es gehört jedoch der [[Iron Tusk Corp.]], ist also akzeptabler Kollateralschaden.
 
 Eigentlich sollte Jimmy bei dem Auftrag aufpassen und schmiere stehen, Ray hat jedoch kurz bevor Jimmy aufbrechen wollte stattdessen Köter losgeschickt. Warum er das getan hat ist nicht ganz klar, aber Jimmy schien mit dieser Entscheidung äußerst unzufrieden zu sein.
 

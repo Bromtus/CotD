@@ -1,5 +1,7 @@
 ---
-{"publish":true,"created":"2025-10-10T00:13:27.621+02:00","modified":"2025-10-10T00:17:27.577+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:13:27.621Z
+modified: 2025-10-09T22:17:27.577Z
 ---
 
 # RIFLE
@@ -15,7 +17,7 @@
 | 4    | d10 + 11 phy |
 **Burden:** Two-Handed
 
-**Feature: Reload (4):*** See [[The Drylands/Wissenswertes/Equipment der Drylands#Reloading\|Reloading]]
+**Feature: Reload (4):**\* See [[Equipment der Drylands#Reloading|Reloading]]
 **Sightline:** Gib 2 Hope aus, um Advantage auf dem nächsten Attack Roll zu haben
 
-*Primary Weapon*
+_Primary Weapon_

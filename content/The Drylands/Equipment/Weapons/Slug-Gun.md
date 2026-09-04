@@ -1,5 +1,7 @@
 ---
-{"publish":true,"created":"2025-10-10T00:18:56.531+02:00","modified":"2025-10-10T00:20:52.353+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:18:56.531Z
+modified: 2025-10-09T22:20:52.353Z
 ---
 
 # SLUG-GUN
@@ -15,7 +17,7 @@
 | 4    | d8 + 10 phy |
 **Burden:** Two-Handed
 
-**Feature: Reload (1):** See [[The Drylands/Wissenswertes/Equipment der Drylands#Reloading\|Reloading]]
+**Feature: Reload (1):** See [[Equipment der Drylands#Reloading|Reloading]]
 **Powerfull:** Bei einem Treffer, wirf einen Schadenswürfel mehr und verwirf den niedrigsten
 
-*Primary Weapon*
+_Primary Weapon_

@@ -1,5 +1,7 @@
 ---
-{"publish":true,"created":"2025-10-10T00:22:25.904+02:00","modified":"2025-10-10T01:23:46.865+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:22:25.904Z
+modified: 2025-10-09T23:23:46.865Z
 ---
 
 # Axe-Gun
@@ -16,7 +18,7 @@
 | 4    | d8 + 10 phy |
 **Burden:** Two-Handed
 
-**Feature: Reload (2):** See [[The Drylands/Wissenswertes/Equipment der Drylands#Reloading\|Reloading]]
+**Feature: Reload (2):** See [[Equipment der Drylands#Reloading|Reloading]]
 **Versatile**: Diese Waffe kann auch verwendet werden mit - Melee, d10+1/4/7/10
 
-*Primary Weapon*
+_Primary Weapon_

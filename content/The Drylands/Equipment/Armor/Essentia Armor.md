@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-10T00:35:58.012+02:00","modified":"2025-10-10T01:16:25.158+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:35:58.012Z
+modified: 2025-10-09T23:16:25.158Z
 ---
-
 
 # ESSENTIA ARMOR
 
@@ -15,4 +16,4 @@
 **Feature:** **Heavy**: -1 auf Evasion
 **Essentia Powered**: 2 Cells per Long Rest
 
-*Armor*
+_Armor_

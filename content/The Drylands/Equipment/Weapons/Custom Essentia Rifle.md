@@ -1,10 +1,12 @@
 ---
-{"publish":true,"created":"2025-10-10T00:50:31.009+02:00","modified":"2026-04-09T16:43:45.107+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:50:31.009Z
+modified: 2026-04-09T14:43:45.107Z
 ---
 
 # Custom Essentia Rifle
 
-**Trait:** Finesse / Agility  
+**Trait:** Finesse / Agility\
 **Range:** Far
 
 | Tier | Damage       |
@@ -16,7 +18,7 @@
 
 **Burden:** Two-Handed
 
-**Feature: Reload (4):*** See [[The Drylands/Wissenswertes/Mechanics/Equipment der Drylands#Reloading\|Reloading]]  
+**Feature: Reload (4):**\* See [[Equipment der Drylands#Reloading|Reloading]]\
 **Essentia Scope:** +1 auf Spellcasting Rolls
 **Essentia Powered:** 1 Cell per Long rest
 

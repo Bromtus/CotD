@@ -1,6 +1,12 @@
 ---
-{"publish":true,"aliases":"the Wetlands The Wetlands die Wetlands","created":"2025-12-09T23:26:40.190+01:00","modified":"2025-12-09T23:27:14.091+01:00","cssclasses":""}
+publish: true
+aliases:
+  - the Wetlands
+  - The Wetlands
+  - die Wetlands
+created: 2025-12-09T22:26:40.190Z
+modified: 2025-12-09T22:27:14.091Z
 ---
 
-Einige Meilen südlich von [[The Drylands/Minor Outposts/Plentyful]] befindet sich ein Gebirgsrand mit unnatürlich feuchtem Sandboden und eine Häufung von Wüstenpflanzen. Folgt man diesen Vegetationsstreifen aufmerksam lassen sich Risse im Gebirge erkennen, kaum einen Meter breit, aus denen angenehm frische Luft strömt.
+Einige Meilen südlich von [[Plentyful]] befindet sich ein Gebirgsrand mit unnatürlich feuchtem Sandboden und eine Häufung von Wüstenpflanzen. Folgt man diesen Vegetationsstreifen aufmerksam lassen sich Risse im Gebirge erkennen, kaum einen Meter breit, aus denen angenehm frische Luft strömt.
 Dahinter befindet sich eine riesige Grotte, die wahre Größe von dichtem Nebel verschleiert, doch könnte man meinen das gesamte Gebirge sei hohl. Die Landschaft aus dichtem Moos ist übersäht von hunderten Bäumen, wahrscheinlich mehr als in den gesamten Drylands zusammen. Es gibt kaum natürliches Licht, abgesehen von einem tiefblauen Fluss, der sich Richtung der Felswand in einer Art Moor verläuft. Der Fluss gibt einen schwachen Lichtschein ab, der jedoch ausreicht die umliegenden Bäume zu erhellen und halbwegs sichere navigation zu ermöglichen. Entlang des Flusses wachsen eine Vielzahl von Sträuchern und Büschen mit allerlei Beeren. Viele der Bäume sind von Pilzen umsäht, welche in keinem Pilzführer der Welt verzeichnet sind. Außerdem sammeln sich um Neuankömmlinge recht schnell einige Leuchtinsekten, die mit ihrem gelb-orangenen Schein leiten, oder vielleicht eher verwirren.

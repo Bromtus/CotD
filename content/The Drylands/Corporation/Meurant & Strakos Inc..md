@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-25T00:01:38.353+02:00","modified":"2025-08-14T00:06:51.112+02:00","cssclasses":""}
+publish: true
+created: 2025-07-24T22:01:38.353Z
+modified: 2025-08-13T22:06:51.112Z
 ---
 
-
 Fertigung von Produkten aller Art aus importiertem Stahl und Holz.
-Großteil der Fabriken an der Südlichen Mesa der [[The Drylands/Landmarks/Twin Turtles]] in [[The Drylands/Major Outposts/Wyllin's Gulch]].
+Großteil der Fabriken an der Südlichen Mesa der [[Twin Turtles]] in [[Wyllin's Gulch]].

@@ -1,5 +1,7 @@
 ---
-{"publish":true,"created":"2025-10-10T00:29:37.398+02:00","modified":"2025-10-10T00:30:34.031+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:29:37.398Z
+modified: 2025-10-09T22:30:34.031Z
 ---
 
 # DERINGER
@@ -15,7 +17,7 @@
 | 4    | d8 + 9 phy |
 **Burden:** One-Handed
 
-**Feature: Reload (1):** See [[The Drylands/Wissenswertes/Equipment der Drylands#Reloading\|Reloading]]
+**Feature: Reload (1):** See [[Equipment der Drylands#Reloading|Reloading]]
 **Concealed**: Diese Waffe ist einfach zu verstecken
 
-*Secondary Weapon*
+_Secondary Weapon_

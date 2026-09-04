@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-27T20:36:35.538+01:00","modified":"2025-10-27T20:36:35.887+01:00","cssclasses":""}
+publish: true
+created: 2025-10-27T19:36:35.538Z
+modified: 2025-10-27T19:36:35.887Z
 ---
-
 
 # INVERSE FIELD GENERATOR
 
@@ -10,5 +11,5 @@
 **Feature:** **Interference:** You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds.
 **Feature: Essentia Powered:** 2 Cells per Long Rest
 
-*It was originally developed in order to heat food, but its capabilities to nullify magic (and to some extend bullets) seemed even more usefull.*
-*Armor - Tier 2*
+_It was originally developed in order to heat food, but its capabilities to nullify magic (and to some extend bullets) seemed even more usefull._
+_Armor - Tier 2_

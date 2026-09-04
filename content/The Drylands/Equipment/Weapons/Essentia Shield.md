@@ -1,5 +1,7 @@
 ---
-{"publish":true,"created":"2025-10-10T00:28:19.214+02:00","modified":"2025-10-10T00:29:26.282+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:28:19.214Z
+modified: 2025-10-09T22:29:26.282Z
 ---
 
 # ESSENTIA SHIELD
@@ -12,4 +14,4 @@
 **Feature: Protective**: +1 Armor Score
 **Essentia-Powered**: 1 Zelle pro Long Rest
 
-*Secondary Weapon - Tier 1*
+_Secondary Weapon - Tier 1_

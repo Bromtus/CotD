@@ -1,5 +1,7 @@
 ---
-{"publish":true,"created":"2025-10-10T00:26:21.061+02:00","modified":"2025-10-10T00:28:43.508+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:26:21.061Z
+modified: 2025-10-09T22:28:43.508Z
 ---
 
 # LASSO
@@ -15,6 +17,6 @@
 | 4    | d4 + 9 phy |
 **Burden:** One-Handed
 
-**Feature: Roped:** Triffst du ein Ziel, kannst du es einfangen, statt Schaden zu machen. Eingefangene Ziele sind *restrained* und *vurnerable*, solange du in Close Range bleibst. Wenn das Ziel sich befreit, kannst du einen Strength reaction Roll machen, beim Erfolg bleibt das Ziel eingefangen.
+**Feature: Roped:** Triffst du ein Ziel, kannst du es einfangen, statt Schaden zu machen. Eingefangene Ziele sind _restrained_ und _vurnerable_, solange du in Close Range bleibst. Wenn das Ziel sich befreit, kannst du einen Strength reaction Roll machen, beim Erfolg bleibt das Ziel eingefangen.
 
-*Secondary Weapon - Tier 1*
+_Secondary Weapon - Tier 1_

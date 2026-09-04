@@ -1,8 +1,11 @@
 ---
-{"publish":true,"created":"2025-08-13T15:11:54.789+02:00","modified":"2026-06-14T02:27:43.679+02:00","cssclasses":""}
+publish: true
+created: 2025-08-13T13:11:54.789Z
+modified: 2026-06-14T00:27:43.679Z
 ---
 
-
 er/ihn, Firbolg, 27 Jahre, Lange Schlappohren und unverwüstliche Ruhe
-***
-Marshal von [[The Drylands/Major Outposts/Wyllin's Gulch]] und damit oberster Rechtsorgan der Stadt.
+
+---
+
+Marshal von [[Wyllin's Gulch]] und damit oberster Rechtsorgan der Stadt.

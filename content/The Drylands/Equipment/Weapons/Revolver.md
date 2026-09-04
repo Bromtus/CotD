@@ -1,5 +1,7 @@
 ---
-{"publish":true,"created":"2025-10-10T00:05:21.987+02:00","modified":"2025-10-10T00:17:29.842+02:00","cssclasses":""}
+publish: true
+created: 2025-10-09T22:05:21.987Z
+modified: 2025-10-09T22:17:29.842Z
 ---
 
 # Revolver
@@ -15,6 +17,6 @@
 | 4    | d8 + 10 phy |
 **Burden:** One-Handed
 
-**Feature: Reload (6):** See [[The Drylands/Wissenswertes/Equipment der Drylands#Reloading\|Reloading]]
+**Feature: Reload (6):** See [[Equipment der Drylands#Reloading|Reloading]]
 
-*Primary Weapon*
+_Primary Weapon_
