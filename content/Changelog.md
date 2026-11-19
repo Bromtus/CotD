@@ -1,7 +1,14 @@
 ---
 publish: true
 created: 2025-11-04T21:49:42.427Z
-modified: 2026-07-09T20:51:30.623Z
+modified: 2026-11-19T20:54:01.014Z
+---
+
+- 19.11.26 - Added: [[The Onyx Owls]]
+- 19.11.26 - Added: [[Prof. Hurbert Hoffner]]
+- 19.11.26 - Added: [[Hochschule Eisenkessel]]
+- 19.11.26 - Added: [[World Lore#Welt außerhalb der Drylands|Welt außerhalb der Drylands]]
+
 ---
 
 - 9.7.26 - Changed: [[Havalaugh]]

@@ -1,8 +1,16 @@
 ---
 publish: true
-created: 2026-03-10T16:24:20.001Z
-modified: 2026-03-10T16:24:20.001Z
+created: 2026-11-19T19:36:59.186Z
+modified: 2026-11-19T19:48:37.353Z
 ---
+
+# Welt außerhalb der Drylands
+
+## Grefend
+
+Grefend ist eine Hochburg der Technologie und des Handels, durch eine günstige Lage läuft ein Großteil des Internationalen Handels durch die Hauptstadt Emmelgraaf und damit vorbei an den Zollkassen der Stadt.
+Grefend ist einer der größten Abnehmer für Essentia aus den Drylands, selbst Roh-Essentia wird Tonnenweise dorthin exportiert, alles unter dem wachsamen Auge der Emmelgraaf Policing Force.
+In Emmelgraaf befindet sich eine der renomiertesten Universitäten der Welt, die Universiteit Emmelgraaf, an der viele der erfolgreichsten Köpfe der Welt lehren und lernen.
 
 # Cosmologie
 
