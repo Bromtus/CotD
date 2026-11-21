@@ -1,7 +1,11 @@
 ---
 publish: true
 created: 2025-11-04T21:49:42.427Z
-modified: 2026-11-19T20:54:01.014Z
+modified: 2026-11-21T22:34:39.373Z
+---
+
+- 21.11.26 - Changed: [[Equipment der Drylands]], added new Havalaugh Items
+
 ---
 
 - 19.11.26 - Added: [[The Onyx Owls]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-10-09T21:35:05.202Z
-modified: 2026-06-29T20:22:52.644Z
+modified: 2026-11-21T22:34:07.620Z
 ---
 
 Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[Equipment der Drylands#Equipment|unten]].
@@ -42,11 +42,12 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 
 ## Sekundärwaffen
 
-| Tier  | Name                | Kosten     | Erhältlich bei     |
-| ----- | ------------------- | ---------- | ------------------ |
-| Multi | [[Lasso]]           | 3 Handvoll | Überall            |
-| Multi | [[Deringer]]        | 4 Handvoll | [[Wyllin's Gulch]] |
-| 1     | [[Essentia Shield]] | 5 Handvoll | Überall            |
+| Tier  | Name                           | Kosten     | Erhältlich bei     |
+| ----- | ------------------------------ | ---------- | ------------------ |
+| Multi | [[Lasso]]                      | 3 Handvoll | Überall            |
+| Multi | [[Deringer]]                   | 4 Handvoll | [[Wyllin's Gulch]] |
+| 1     | [[Essentia Shield]]            | 5 Handvoll | Überall            |
+| 2     | [[Wiederkehrendes Wurfmesser]] | Mittel     |                    |
 
 ## Rüstungen
 
@@ -59,20 +60,26 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | 2     | Upgrade auf Tier 2                                              | 7 Handvoll | Überall                                                              |
 | 2     | [[Mirage Armor]]                                                | 1.2 Säcke  | Wyllin's Gulch ([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
 | 2     | [[Inverse Field Generator]]                                     | 1.2 Säcke  | Wyllin's Gulch ([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
+| 2     | [[La Pureza]]                                                   | Mittel     | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
 
 ## Items
 
-| Art            | Name                               | Kosten     | Erhältlich bei                                                      |
-| -------------- | ---------------------------------- | ---------- | ------------------------------------------------------------------- |
-| Weapon Upgrade | [[Essentia Loader]]                | 8 Handvoll | Wyllin's Gulch([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
-| Defense        | [[Mysteriöser Schleim]]            | 9 Handvoll | Wyllin's Gulch (Fungril Händlerin)                                  |
-| Defense        | [[O'Donnel's Thick-Hide Tincture]] | 9 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Defense        | [[Edna's Slippery Snakeoil]]       | 1.1 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Defense        | [[Cassidy's Calming Concoction]]   | 1 Sack     | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Defense        | [[Lennie's Hearty Health-Up]]      | 1.2 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Utility        | [[Adlergläser]]                    | 4 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Utility        | [[Inmotisol]]                      | 1.4 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Utility        | [[Flickerscarf]]                   | 1 Sack     | Wyllin's Gulch([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
+| Art            | Name                                   | Kosten     | Erhältlich bei                                                      |
+| -------------- | -------------------------------------- | ---------- | ------------------------------------------------------------------- |
+| Weapon Upgrade | [[Essentia Loader]]                    | 8 Handvoll | Wyllin's Gulch([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
+| Defense        | [[Mysteriöser Schleim]]                | 9 Handvoll | Wyllin's Gulch (Fungril Händlerin)                                  |
+| Defense        | [[O'Donnel's Thick-Hide Tincture]]     | 9 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | [[Edna's Slippery Snakeoil]]           | 1.1 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | [[Cassidy's Calming Concoction]]       | 1 Sack     | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | [[Lennie's Hearty Health-Up]]          | 1.2 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Utility        | [[Adlergläser]]                        | 4 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Utility        | [[Inmotisol]]                          | 1.4 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Utility        | [[Flickerscarf]]                       | 1 Sack     | Wyllin's Gulch([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
+| Utility        | [[Portabler Tornado]]                  | Günstig    | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
+| Utility        | [[Gezinkte Karten]]                    | Günstig    | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
+| Attack         | [[Spurs of Shootin' steady]]           | Mittel     | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
+| Movement       | [[Chelsea Boots of the Westward Wind]] | Teuer      | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
+| Attack         | [[Boots of Runin' and Gunnin']]        | Teuer      | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
 
 ## Consumables
 
@@ -93,3 +100,8 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | Buff         | [[Potion of Invisibility]]                                                                  | 4 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])              |
 | Buff         | [[Major Booster]]                                                                           | 4 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])              |
 | Buff         | 4x [[Imported Cigarillos]]                                                                  | 6 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])              |
+| Rest         | [[Flasche Laudanum]]                                                                        | Mittel     | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| Utility      | [[Bandit-in-a-Box]]]                                                                        | Mittel     | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| Buff         | [[Delman's Rum]]                                                                            | Teuer      | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| Buff         | [[(D)Rachentöter Whisky]]                                                                   | Teuer      | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| Heilung      | [[Zigarre El Exceso]]                                                                       | Günstig    | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
