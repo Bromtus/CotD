@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-10-09T21:35:05.202Z
-modified: 2026-11-21T22:34:07.620Z
+modified: 2026-11-21T23:27:03.407Z
 ---
 
 Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[Equipment der Drylands#Equipment|unten]].
@@ -42,12 +42,12 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 
 ## Sekundärwaffen
 
-| Tier  | Name                           | Kosten     | Erhältlich bei     |
-| ----- | ------------------------------ | ---------- | ------------------ |
-| Multi | [[Lasso]]                      | 3 Handvoll | Überall            |
-| Multi | [[Deringer]]                   | 4 Handvoll | [[Wyllin's Gulch]] |
-| 1     | [[Essentia Shield]]            | 5 Handvoll | Überall            |
-| 2     | [[Wiederkehrendes Wurfmesser]] | Mittel     |                    |
+| Tier  | Name                           | Kosten     | Erhältlich bei                                      |
+| ----- | ------------------------------ | ---------- | --------------------------------------------------- |
+| Multi | [[Lasso]]                      | 3 Handvoll | Überall                                             |
+| Multi | [[Deringer]]                   | 4 Handvoll | [[Wyllin's Gulch]]                                  |
+| 1     | [[Essentia Shield]]            | 5 Handvoll | Überall                                             |
+| 2     | [[Wiederkehrendes Wurfmesser]] | 1.3 Säcke  | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]] |
 
 ## Rüstungen
 
@@ -60,7 +60,7 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | 2     | Upgrade auf Tier 2                                              | 7 Handvoll | Überall                                                              |
 | 2     | [[Mirage Armor]]                                                | 1.2 Säcke  | Wyllin's Gulch ([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
 | 2     | [[Inverse Field Generator]]                                     | 1.2 Säcke  | Wyllin's Gulch ([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
-| 2     | [[La Pureza]]                                                   | Mittel     | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| 2     | [[La Pureza]]                                                   | 1.8 Säcke  | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
 
 ## Items
 
@@ -75,11 +75,11 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | Utility        | [[Adlergläser]]                        | 4 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
 | Utility        | [[Inmotisol]]                          | 1.4 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
 | Utility        | [[Flickerscarf]]                       | 1 Sack     | Wyllin's Gulch([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
-| Utility        | [[Portabler Tornado]]                  | Günstig    | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
-| Utility        | [[Gezinkte Karten]]                    | Günstig    | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
-| Attack         | [[Spurs of Shootin' steady]]           | Mittel     | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
-| Movement       | [[Chelsea Boots of the Westward Wind]] | Teuer      | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
-| Attack         | [[Boots of Runin' and Gunnin']]        | Teuer      | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
+| Utility        | [[Portabler Tornado]]                  | 8 Handvoll | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
+| Utility        | [[Gezinkte Karten]]                    | 6 Handvoll | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
+| Attack         | [[Spurs of Shootin' steady]]           | 1.6 Säcke  | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
+| Movement       | [[Chelsea Boots of the Westward Wind]] | 2.4 Säcke  | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
+| Attack         | [[Boots of Runin' and Gunnin']]        | 3 Säcke    | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                 |
 
 ## Consumables
 
@@ -100,8 +100,8 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | Buff         | [[Potion of Invisibility]]                                                                  | 4 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])              |
 | Buff         | [[Major Booster]]                                                                           | 4 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])              |
 | Buff         | 4x [[Imported Cigarillos]]                                                                  | 6 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])              |
-| Rest         | [[Flasche Laudanum]]                                                                        | Mittel     | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
-| Utility      | [[Bandit-in-a-Box]]]                                                                        | Mittel     | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
-| Buff         | [[Delman's Rum]]                                                                            | Teuer      | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
-| Buff         | [[(D)Rachentöter Whisky]]                                                                   | Teuer      | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
-| Heilung      | [[Zigarre El Exceso]]                                                                       | Günstig    | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| Rest         | [[Flasche Laudanum]]                                                                        | 4 Handvoll | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| Utility      | [[Bandit-in-a-Box]]                                                                         | 3 Handvoll | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| Buff         | [[Delman's Rum]]                                                                            | 5 Handvoll | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| Buff         | [[(D)Rachentöter Whisky]]                                                                   | 6 Handvoll | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
+| Heilung      | [[Zigarre El Exceso]]                                                                       | 2 Handvoll | [[Havalaugh#Der Zeltmarkt\|Zeltmarkt in Havalaugh]]                  |
