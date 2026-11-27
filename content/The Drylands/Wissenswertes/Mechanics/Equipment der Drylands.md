@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-10-09T21:35:05.202Z
-modified: 2026-11-21T23:27:03.407Z
+modified: 2026-11-21T23:34:10.969Z
 ---
 
 Preise und Stats von gefunden Waffen, Items und Rüstungen findet ihr [[Equipment der Drylands#Equipment|unten]].
@@ -68,10 +68,10 @@ Equipment kann an vielen Orten in den Drylands erworben werden. Einige Rüstunge
 | -------------- | -------------------------------------- | ---------- | ------------------------------------------------------------------- |
 | Weapon Upgrade | [[Essentia Loader]]                    | 8 Handvoll | Wyllin's Gulch([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |
 | Defense        | [[Mysteriöser Schleim]]                | 9 Handvoll | Wyllin's Gulch (Fungril Händlerin)                                  |
-| Defense        | [[O'Donnel's Thick-Hide Tincture]]     | 9 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Defense        | [[Edna's Slippery Snakeoil]]           | 1.1 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Defense        | [[Cassidy's Calming Concoction]]       | 1 Sack     | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
-| Defense        | [[Lennie's Hearty Health-Up]]          | 1.2 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | ~~[[O'Donnel's Thick-Hide Tincture]]~~ | 9 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | ~~[[Edna's Slippery Snakeoil]]~~       | 1.1 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | ~~[[Cassidy's Calming Concoction]]~~   | 1 Sack     | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
+| Defense        | ~~[[Lennie's Hearty Health-Up]]~~      | 1.2 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
 | Utility        | [[Adlergläser]]                        | 4 Handvoll | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
 | Utility        | [[Inmotisol]]                          | 1.4 Sack   | Cinderline ([[Apotheke zum Kotzenden Pferd\|Apotheke]])             |
 | Utility        | [[Flickerscarf]]                       | 1 Sack     | Wyllin's Gulch([[Zu Schusswaren & Auf Rüstwaren\|Zu & Auf Handel]]) |

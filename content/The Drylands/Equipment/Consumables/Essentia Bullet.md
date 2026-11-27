@@ -1,9 +1,9 @@
 ---
 publish: true
-created: 2025-10-09T22:40:42.874Z
-modified: 2025-10-09T22:42:02.533Z
+created: 2026-11-27T18:39:41.753Z
+modified: 2026-11-27T20:17:45.034Z
 ---
 
-# ESSENTIA BULLET
-
-You can load this bullet to let you next attack deal d20 magical damage using your proficiency instead of its normal damage.
+An Essentia Crystal fitted into a bullet casing.
+Spend 1 Stress to empty your magazine and load this Bullet into your Gun.
+Your next attack deals d20 magical damage using your proficiency instead of its normal damage.

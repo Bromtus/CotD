@@ -1,7 +1,12 @@
 ---
 publish: true
-created: 2025-11-04T21:49:42.427Z
-modified: 2026-11-21T22:34:39.373Z
+created: 2026-11-27T18:39:54.449Z
+modified: 2026-11-27T19:09:48.644Z
+---
+
+- 27.11.26 - Added: [[Giants Gang]]
+- 27.11.26 - Added: [[Abandonment]]
+
 ---
 
 - 21.11.26 - Changed: [[Equipment der Drylands]], added new Havalaugh Items
